@@ -1,8 +1,8 @@
-# 🇮🇳 NyayaSahaya — AI-Powered Multilingual Legal Assistant for India
+# Needhi — AI-Powered Multilingual Legal Assistant for India
 
 > An intelligent legal assistant that answers questions in **Tamil + English**, drafts formal complaints, and classifies legal issues — powered by RAG over Indian law.
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue) ![React](https://img.shields.io/badge/React-18-cyan) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
