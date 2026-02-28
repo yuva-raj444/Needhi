@@ -1,0 +1,144 @@
+RIGHT TO INFORMATION ACT, 2005 (RTI ACT) — COMPLETE KEY PROVISIONS
+
+SECTION 2 — DEFINITIONS
+(f) "Information" means any material in any form including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form.
+(h) "Public Authority" means any authority or body or institution of self-government established or constituted by or under the Constitution, by any law made by Parliament or State Legislature, by notification issued or order made by the appropriate Government.
+(j) "Right to Information" means the right to information accessible under this Act, which includes the right to inspection of work, documents, records, taking notes, extracts or certified copies of documents or records, taking certified samples of material, obtaining information in the form of diskettes, floppies, tapes, video cassettes or in any other electronic mode.
+
+SECTION 3 — RIGHT TO INFORMATION
+Subject to the provisions of this Act, all citizens shall have the right to information.
+
+SECTION 4 — OBLIGATIONS OF PUBLIC AUTHORITIES
+(1) Every public authority shall:
+(a) maintain all its records catalogued and indexed;
+(b) publish within 120 days: particulars of its organization, functions and duties, powers and duties of its officers, procedure of decision making, rules, regulations, manuals and records, details of facilities available to citizens, names, designations and other details of public information officers.
+
+SECTION 6 — REQUEST FOR OBTAINING INFORMATION
+(1) A person desiring to obtain information shall make a request in writing or through electronic means, accompanied by the prescribed fee.
+(2) The applicant is not required to give any reason for requesting the information.
+(3) The application should be made to the Public Information Officer (PIO) of the concerned public authority.
+
+HOW TO FILE AN RTI APPLICATION:
+1. Write to the PIO of the public authority
+2. Pay Rs 10 as application fee (for Central Government)
+3. No fee for BPL (Below Poverty Line) applicants
+4. Can be filed in Hindi, English, or the official language of the area
+5. Can be filed online through RTI Online Portal (rtionline.gov.in) for Central Government departments
+6. Must clearly describe the information sought
+7. No need to give reasons for seeking information
+
+SECTION 7 — DISPOSAL OF REQUEST
+(1) The PIO shall provide the information within 30 days of receipt of the request.
+(2) If the information concerns the life or liberty of a person, it shall be provided within 48 hours.
+(3) If the PIO fails to give a decision within the specified period, the applicant shall be deemed to have been refused the information.
+(5) If the applicant is asked to pay additional fees, the period between dispatch of the intimation and payment of fees shall be excluded from the 30-day period.
+
+SECTION 8 — EXEMPTION FROM DISCLOSURE
+(1) Notwithstanding anything in this Act, there shall be no obligation to give any citizen information that:
+(a) would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State;
+(b) has been expressly forbidden to be published by any court of law or tribunal;
+(c) would cause a breach of privilege of Parliament or State Legislature;
+(d) is commercial confidence, trade secrets or intellectual property;
+(e) is available to a person in his fiduciary relationship;
+(f) has been received in confidence from foreign government;
+(g) would endanger the life or physical safety of any person;
+(h) would impede the process of investigation or prosecution of offenders;
+(i) cabinet papers including records of deliberations of Council of Ministers;
+(j) is personal information which has no relationship to any public activity or interest.
+
+(2) Information which cannot be denied to the Parliament or State Legislature shall not be denied to any person under this section.
+
+SECTION 9 — GROUNDS FOR REJECTION
+(1) A PIO may reject a request for information where disclosure would involve an infringement of copyright subsisting in a person other than the State.
+(2) Every rejection shall specify reasons for refusal and the period within which an appeal against refusal may be preferred.
+
+SECTION 11 — THIRD PARTY INFORMATION
+(1) If information relates to or has been supplied by a third party, the PIO shall give 5 days' notice to the third party.
+(2) The third party may make a representation against disclosure within 10 days.
+(3) The PIO shall make a decision within 40 days.
+
+SECTION 18 — POWERS AND FUNCTIONS OF INFORMATION COMMISSIONS
+The Central Information Commission or State Information Commission may:
+(a) order inquiry into any matter;
+(b) require any public authority to comply with the provisions of this Act;
+(c) receive and inquire into complaints;
+(d) impose penalties.
+
+SECTION 19 — APPEAL
+(1) First Appeal: Within 30 days from the date of receipt of the decision, to an officer senior to the PIO within the same public authority.
+(2) Second Appeal: Within 90 days from the date of receipt of the first appeal decision, to the Central/State Information Commission.
+(3) The burden of proof shall be on the PIO who denied the information.
+
+SECTION 20 — PENALTIES
+(1) If the PIO has, without any reasonable cause, refused to receive an application for information, or has not furnished information within the specified time, the Commission shall impose a penalty of Rs 250 per day until information is provided, subject to a maximum of Rs 25,000.
+(2) The Commission may also recommend disciplinary action against the PIO.
+
+---
+
+INFORMATION TECHNOLOGY ACT, 2000 (IT ACT) — CYBERCRIME AND DIGITAL LAW
+
+SECTION 2 — DEFINITIONS
+(1) "Computer" includes any electronic, magnetic, optical or high speed data processing device.
+(ha) "Communication device" means cell phones, personal digital assistants, or any combination of these devices.
+(i) "Computer network" means the interconnection of one or more computers or communication devices through use of satellite, microwave, terrestrial line, wire, wireless or other communication media.
+(nb) "Cyber security" means protecting information, equipment, devices, computer, computer resource, communication device and information stored therein from unauthorised access, use, disclosure, disruption, modification or destruction.
+(t) "Electronic record" means data, record or data generated, image or sound stored, received or sent in an electronic form or microfilm or computer-generated microfiche.
+
+SECTION 43 — PENALTY AND COMPENSATION FOR DAMAGE TO COMPUTER SYSTEM
+If any person without permission of the owner accesses or downloads, copies, or extracts data from a computer system, introduces any computer contaminant or virus, damages any computer database, disrupts any computer system — such person shall be liable to pay damages by way of compensation to the person so affected. Compensation up to Rs 5 crore may be awarded.
+
+SECTION 65 — TAMPERING WITH COMPUTER SOURCE DOCUMENTS
+Whoever knowingly or intentionally conceals, destroys or alters any computer source code used for a computer program — imprisonment up to three years, or fine up to two lakh rupees, or both.
+
+SECTION 66 — COMPUTER RELATED OFFENCES
+If any person dishonestly or fraudulently does any act referred to in Section 43 — imprisonment up to three years, or fine up to five lakh rupees, or both.
+
+SECTION 66A — SENDING OFFENSIVE MESSAGES (STRUCK DOWN)
+This section was struck down by the Supreme Court in Shreya Singhal vs Union of India (2015) as being violative of Article 19(1)(a) — right to freedom of speech and expression.
+
+SECTION 66B — DISHONESTLY RECEIVING STOLEN COMPUTER RESOURCE
+Imprisonment up to three years, or fine up to one lakh rupees, or both.
+
+SECTION 66C — IDENTITY THEFT
+Whoever fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person — imprisonment up to three years, or fine up to one lakh rupees, or both.
+
+SECTION 66D — CHEATING BY PERSONATION BY USING COMPUTER RESOURCE
+Whoever by means of any communication device or computer resource cheats by personation — imprisonment up to three years, or fine up to one lakh rupees, or both.
+
+SECTION 66E — VIOLATION OF PRIVACY
+Whoever intentionally captures, publishes or transmits the image of a private area of any person without his or her consent — imprisonment up to three years, or fine not exceeding two lakh rupees, or both.
+
+SECTION 66F — CYBER TERRORISM
+Whoever with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people, denies access to any person authorised to access computer resource, or attempts to penetrate or access a computer resource without authorization, or introduces any computer contaminant — imprisonment which may extend to imprisonment for life.
+
+SECTION 67 — PUBLISHING OR TRANSMITTING OBSCENE MATERIAL IN ELECTRONIC FORM
+First conviction: Imprisonment up to three years and fine up to five lakh rupees.
+Subsequent conviction: Imprisonment up to five years and fine up to ten lakh rupees.
+
+SECTION 67A — PUBLISHING SEXUALLY EXPLICIT MATERIAL IN ELECTRONIC FORM
+First conviction: Imprisonment up to five years and fine up to ten lakh rupees.
+Subsequent conviction: Imprisonment up to seven years and fine up to ten lakh rupees.
+
+SECTION 67B — PUBLISHING CHILD PORNOGRAPHY IN ELECTRONIC FORM
+First conviction: Imprisonment up to five years and fine up to ten lakh rupees.
+Subsequent conviction: Imprisonment up to seven years and fine up to ten lakh rupees.
+
+SECTION 69 — POWER TO ISSUE DIRECTIONS FOR INTERCEPTION OR MONITORING
+The Central Government or State Government may direct any agency to intercept, monitor or decrypt any information generated, transmitted, received or stored in any computer resource if it is necessary in the interest of sovereignty or integrity of India, defence of India, security of the State, friendly relations with foreign States, public order, or for investigation of any offence.
+
+SECTION 72 — BREACH OF CONFIDENTIALITY AND PRIVACY
+Any person who has secured access to electronic record, book, register, correspondence, information, document or other material under this Act and discloses it without consent — imprisonment up to two years, or fine up to one lakh rupees, or both.
+
+SECTION 79 — EXEMPTION FROM LIABILITY OF INTERMEDIARY
+An intermediary shall not be liable for any third-party information, data, or communication link made available or hosted by him, provided that the function of the intermediary is limited to providing access, and the intermediary does not initiate the transmission, select the receiver, or select or modify the information. However, this exception does not apply if the intermediary has conspired, abetted, aided or induced the commission of the unlawful act, or upon receiving actual knowledge or on being notified fails to expeditiously remove or disable access to that material.
+
+DATA PROTECTION — DIGITAL PERSONAL DATA PROTECTION ACT, 2023 (DPDPA)
+Key provisions:
+1. Personal data can only be processed for a lawful purpose with consent
+2. Data fiduciaries must provide clear notice before processing
+3. Data principals (individuals) have the right to access, correct, and erase their data
+4. Consent must be free, specific, informed, unconditional and unambiguous
+5. Data of children (under 18) requires verifiable consent of parent/guardian
+6. Significant Data Fiduciaries have additional obligations (Data Protection Officer, audits, etc.)
+7. Penalties up to Rs 250 crore for violations
+8. Data Protection Board of India established to adjudicate complaints

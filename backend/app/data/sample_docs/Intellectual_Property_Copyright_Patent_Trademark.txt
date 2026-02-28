@@ -1,0 +1,225 @@
+INTELLECTUAL PROPERTY RIGHTS IN INDIA — COMPREHENSIVE GUIDE
+=============================================================
+
+PART 1: COPYRIGHT LAW IN INDIA
+================================
+
+COPYRIGHT ACT, 1957:
+Protects original literary, artistic, musical, and dramatic works.
+Administered by the Copyright Office, Ministry of Commerce and Industry.
+Website: copyright.gov.in
+
+WHAT IS PROTECTED BY COPYRIGHT:
+- Literary works: Books, articles, poems, computer programs, databases
+- Dramatic works: Plays, dance choreography
+- Musical works: Songs, compositions
+- Artistic works: Paintings, sculptures, drawings, photographs
+- Cinematograph films: Movies, videos
+- Sound recordings
+
+WHAT IS NOT PROTECTED:
+- Ideas, concepts, facts, procedures, methods (only expression is protected)
+- Titles of books/songs (not protected by copyright but may be protected as trademark)
+- News reports (facts reported, but not their creative expression)
+
+WHEN DOES COPYRIGHT ARISE:
+AUTOMATICALLY — as soon as the work is created and expressed.
+No registration required for copyright to exist.
+Registration is optional but creates evidence of authorship.
+
+DURATION OF COPYRIGHT:
+- Literary, dramatic, musical, artistic works: 60 years after author's death
+- Cinematograph films: 60 years from publication
+- Sound recordings: 60 years from publication
+- Government works: 60 years from publication
+- Anonymous works: 60 years from publication
+
+WHO OWNS COPYRIGHT:
+- Author/creator of the work
+- For work created in employment: Employer owns copyright
+- For films: Producer owns copyright
+- For sound recordings: Producer owns copyright
+
+RIGHTS OF COPYRIGHT HOLDER:
+1. Reproduction rights
+2. Translation rights
+3. Public performance rights
+4. Broadcasting rights
+5. Adaptation rights
+6. Distribution rights (Right to issue copies to public)
+
+INFRINGEMENT:
+Any act within the exclusive rights of copyright holder done without permission.
+Exceptions (Fair Dealing):
+- Private study or research
+- Criticism or review
+- News reporting
+- Teaching in schools/colleges
+- Reporting of court proceedings
+
+PENALTIES FOR COPYRIGHT INFRINGEMENT:
+- Civil: Injunction + damages
+- Criminal: Imprisonment 6 months to 3 years + fine Rs. 50,000 to Rs. 2 lakh
+  For repeat offenders or commercial scale: Imprisonment 1-3 years + higher fines
+
+COMPLAINT FOR COPYRIGHT VIOLATION:
+- Civil suit in District Court / High Court (if Delhi, can file in Delhi HC directly)
+- Police complaint (FIR) for criminal offringement
+- Online complaint to copyright.gov.in
+
+PART 2: PATENT LAW IN INDIA
+=============================
+
+PATENTS ACT, 1970 (AMENDED 2005):
+Grants exclusive rights to inventors.
+Administered by the Office of the Controller General of Patents, Designs and Trade Marks.
+Website: ipindia.gov.in
+
+WHAT CAN BE PATENTED (SECTION 2):
+- New invention
+- Involving inventive step (not obvious to skilled person)
+- Capable of industrial application
+
+WHAT CANNOT BE PATENTED IN INDIA (SECTION 3):
+- Abstract scientific theories or discoveries
+- Mathematical methods
+- Mental acts or business methods (in abstract form)
+- Mere discovery of existing substance (no new use)
+- Section 3(d): New form/use of known substance showing SAME therapeutic efficacy
+  (Important: prevents evergreening of pharmaceutical patents)
+- Plants, animals, biological processes
+- Computer programs per se (software as such)
+
+DURATION:
+20 years from the date of filing.
+
+HOW TO APPLY FOR PATENT:
+Online at ipindia.gov.in or physical application at Patent Office (Delhi, Mumbai,
+Kolkata, Chennai).
+
+PATENT PROCESS:
+1. File provisional or complete specification
+2. Publication after 18 months
+3. Request for examination
+4. Office actions and responses
+5. Grant of patent if all conditions met
+
+COMPULSORY LICENSING:
+Government can grant compulsory license to manufacture patented drugs/products
+if public health requires it (Natco Pharma case — Nexavar cancer drug).
+
+PART 3: TRADEMARK LAW
+======================
+
+TRADE MARKS ACT, 1999:
+Protects distinctive marks that identify goods/services.
+Website: ipindia.gov.in
+
+WHAT CAN BE REGISTERED AS TRADEMARK:
+- Words, logos, numerals, shapes, colors, sounds, smells
+- Combination of these
+- Must be distinctive — able to distinguish goods/services from others
+
+WHAT CANNOT BE REGISTERED:
+- Descriptive marks (just describing the product)
+- Generic words
+- Marks deceptively similar to existing marks
+- Geographic names (unless distinctive)
+- Marks offensive to public morality
+
+DURATION:
+10 years, renewable indefinitely every 10 years (on payment of fee).
+
+HOW TO APPLY:
+Online at ipindiaservices.gov.in
+Classes: International Classification System — 45 classes (1-34 goods, 35-45 services)
+
+TM vs ® SYMBOL:
+TM: Trademark application filed — claim made but not yet registered
+®: Registered trademark — legal registration complete
+
+TRADEMARK INFRINGEMENT:
+Using a registered trademark without permission.
+Passing off: Misrepresenting goods as those of another (even unregistered marks).
+
+REMEDIES:
+- Civil: Injunction, damages, account of profits
+- Criminal: Imprisonment up to 3 years + fine Rs. 50,000 to Rs. 2 lakh
+- Also: Customs can seize goods with infringing marks
+
+PART 4: GEOGRAPHICAL INDICATIONS (GI TAGS)
+============================================
+
+GEOGRAPHICAL INDICATIONS OF GOODS ACT, 1999:
+Protects products with specific geographic origin and qualities.
+
+FAMOUS INDIAN GI TAGS:
+- Darjeeling Tea
+- Kanchipuram Silk
+- Banaras Brocades and Sarees
+- Alphonso Mangoes (Ratnagiri)
+- Mysore Silk
+- Kolhapuri Chappal
+- Chanderi Sarees
+- Kashmir Pashmina
+- Tirupathi Laddu
+- Basmati Rice
+
+BENEFIT:
+Producers in the designated geographic area can use the GI tag.
+Prevents misuse of the name by others.
+
+PART 5: INDUSTRIAL DESIGN
+===========================
+
+DESIGNS ACT, 2000:
+Protects the visual design of an object (aesthetic features, not function).
+Duration: 10 years (extendable by 5 more years).
+
+Registration at the same office as patents (ipindia.gov.in).
+
+PART 6: TRADE SECRETS AND CONFIDENTIAL INFORMATION
+====================================================
+
+India does not have a dedicated Trade Secrets law.
+Protected through:
+- Contract law (confidentiality agreements / NDAs)
+- Law of breach of confidence (common law)
+- Information Technology Act (for digital confidential data)
+
+NON-DISCLOSURE AGREEMENT (NDA):
+Legal contract to keep information confidential.
+Enforceable in Indian courts.
+Breach of NDA: Civil damages and injunction.
+
+PART 7: IP ENFORCEMENT — WHERE TO GO
+======================================
+
+1. CIVIL COURTS:
+   - District Court (for all IP matters)
+   - High Court — directly for trademarks, patents (if value is high)
+   - Delhi High Court has special IP jurisdiction for certain registered
+     trademarks/patents
+
+2. POLICE/FIR:
+   For criminal IP infringement (copying, piracy, counterfeiting)
+   File FIR at local police station.
+   Cyber crime cell for online piracy.
+
+3. CUSTOMS:
+   Customs Act allows seizure of infringing goods at borders.
+   Register mark/copyright with Customs for automatic border protection.
+
+4. INTELLECTUAL PROPERTY APPELLATE BOARD (IPAB):
+   Abolished in 2021.
+   Appeals now go directly to High Courts.
+
+5. ONLINE PIRACY:
+   IT Act applies to digital piracy.
+   Report to the platform (YouTube DMCA notices, etc.)
+   File complaint at cybercrime.gov.in
+
+CONTACT:
+IP India (Patents, Trademarks, Designs): ipindia.gov.in
+Copyright Office: copyright.gov.in
+GI Registry: ipindia.gov.in/gi-tags

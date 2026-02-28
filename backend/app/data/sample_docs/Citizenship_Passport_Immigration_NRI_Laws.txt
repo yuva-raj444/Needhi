@@ -1,0 +1,219 @@
+IMMIGRATION, CITIZENSHIP, PASSPORT AND NRI RIGHTS IN INDIA
+============================================================
+
+PART 1: CITIZENSHIP OF INDIA
+==============================
+
+CITIZENSHIP ACT, 1955:
+Governs acquisition and loss of Indian citizenship.
+
+WAYS TO ACQUIRE INDIAN CITIZENSHIP:
+
+1. BY BIRTH:
+   - Born in India on or after January 26, 1950 but before July 1, 1987: 
+     Citizen by birth regardless of parents' nationality.
+   - Born between July 1, 1987 and December 3, 2004:
+     Citizen only if at least one parent is Indian citizen.
+   - Born on or after December 4, 2004:
+     Citizen only if BOTH parents are Indian citizens, OR one is Indian
+     citizen and other is NOT an illegal migrant.
+
+2. BY DESCENT:
+   - Born outside India — if parent was Indian citizen at time of birth.
+   - Must register at Indian consulate within 1 year.
+
+3. BY REGISTRATION:
+   - Person of Indian Origin (PIO) ordinarily resident for 7 years
+   - Spouse of Indian citizen ordinarily resident for 7 years
+   - Minors whose parents are citizens
+   - Independent Commonwealth citizens of good character resident for 5 years
+
+4. BY NATURALISATION:
+   - Must have resided in India for 12 years (total), including last 12 months
+   - Must be of good character
+   - Must have adequate knowledge of one language from Schedule 8 of Constitution
+   - Must renounce previous citizenship
+
+5. OVERSEAS CITIZENS OF INDIA (OCI):
+   - Not full citizenship — a form of permanent residency
+   - No voting rights, no public service jobs, no agricultural land purchase
+   - Lifelong visa to India, no need to register for any length of stay
+   - Foreign nationals of Indian origin can apply
+
+LOSS OF CITIZENSHIP:
+- Voluntary renunciation
+- Acquisition of foreign citizenship (auto-loss)
+- Deprivation by government (disloyalty, fraud in obtaining citizenship)
+
+CITIZENSHIP AMENDMENT ACT, 2019 (CAA):
+Provides accelerated citizenship to persecuted minorities (Hindus, Sikhs, 
+Buddhists, Jains, Parsis, Christians) from Pakistan, Bangladesh, and 
+Afghanistan who entered India before December 31, 2014. 
+Does NOT apply to Muslims from these countries.
+Rules notified in 2024.
+
+PART 2: PASSPORT AND TRAVEL DOCUMENTS
+=======================================
+
+PASSPORT ACT, 1967:
+Governs issuance and impounding of passports.
+
+TYPES OF PASSPORTS:
+1. REGULAR (NAVY BLUE): For ordinary travel
+2. OFFICIAL (WHITE): For government officials on duty
+3. DIPLOMATIC (MAROON): For diplomats
+
+WHO CAN GET A PASSPORT:
+All Indian citizens are entitled to a passport unless:
+- Criminal proceedings are pending
+- Court order prohibiting departure
+- Government has impounded passport
+
+HOW TO APPLY FOR PASSPORT:
+Online: passportindia.gov.in
+Call Centre: 1800-258-1800
+
+Steps:
+1. Register on Passport Seva Portal
+2. Fill application form
+3. Pay fees online
+4. Book appointment at Passport Seva Kendra (PSK) or Post Office PSK
+5. Visit PSK with original documents
+6. Police verification (post or pre-issuance depending on category)
+7. Passport dispatched
+
+DOCUMENTS REQUIRED FOR FIRST PASSPORT:
+- Proof of Date of Birth (Birth certificate, school leaving certificate)
+- Proof of Address (Aadhaar, voter ID, bank passbook, electricity bill)
+- Proof of Indian citizenship (if not evident from above)
+- Old passport (if any)
+
+TATKAL (URGENT) PASSPORT:
+Available for urgent cases — higher fee.
+Normal processing: 1-3 weeks.
+Tatkal: 3-7 working days.
+
+MINOR'S PASSPORT:
+- Parents must apply on behalf of minors
+- Both parents' signatures required (if both are alive)
+- Short validity (5 years or until 18, whichever earlier)
+
+IMPOUNDING OF PASSPORT:
+Government can impound/revoke passport if:
+- Criminal proceedings pending
+- Required to attend court
+- Person suspected of committing serious offence
+- Not in public interest
+
+Right to appeal against impounding: District Court.
+
+PART 3: VISA AND FOREIGNER LAWS
+=================================
+
+FOREIGNERS ACT, 1946 and REGISTRATION OF FOREIGNERS ACT, 1939:
+All foreigners must comply with their visa conditions.
+
+TYPES OF VISAS FOR INDIA:
+- Tourist Visa (TV): For tourism, visiting friends
+- Business Visa (BV): For business activities
+- Employment Visa (EV): For working in India
+- Student Visa (SV): For studying
+- Medical Visa (MV): For medical treatment
+- Research Visa: For research activities
+- e-Visa: Online visa for many nationalities for short stays
+
+OVERSTAYING VISA:
+- Serious offence under Foreigners Act
+- Can lead to detention, deportation, ban on re-entry
+- Must extend visa at FRRO (Foreigners Regional Registration Office) before expiry
+
+FRRO OFFICES:
+Present in major cities (Delhi, Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad)
+Website: indianfrro.gov.in | Helpline: 011-26711384
+
+FOREIGNER REGISTRATION:
+Foreigners staying more than 180 days must register with FRRO.
+Pakistani, Chinese, and certain other nationals must register within 14 days.
+
+PART 4: NRI — NON-RESIDENT INDIAN RIGHTS
+==========================================
+
+WHO IS AN NRI:
+An Indian citizen who resides outside India for more than 182 days in a
+financial year. Tax status under FEMA and Income Tax Act.
+
+BANKING AND FINANCE FOR NRIs:
+1. NRE ACCOUNT (Non-Resident External):
+   - For repatriating foreign earnings to India
+   - Fully repatriable (can take money back abroad)
+   - Interest tax-free in India
+
+2. NRO ACCOUNT (Non-Resident Ordinary):
+   - For income earned in India (rent, pension, etc.)
+   - Repatriation limited to USD 1 million per year
+   - Interest taxable in India
+
+3. FCNR ACCOUNT (Foreign Currency Non-Resident):
+   - Term deposits in foreign currency
+   - Fully repatriable
+
+NRI PROPERTY RIGHTS:
+- NRIs can purchase residential and commercial property in India
+- Agricultural land, plantation property, farmhouse — NRIs CANNOT purchase
+  (unless inherited or received as gift)
+- OCI cardholders have same property rights as NRIs
+
+NRI INHERITANCE:
+- NRIs can inherit any property in India (including agricultural land)
+- Ancestral property rights same as resident Indians
+- Will of Indian origin NRI executed abroad is valid in India
+
+NRI MARRIAGES:
+- Indian courts have jurisdiction over NRI marriages if married under Indian law
+  or if either party is Indian citizen
+- Mandatory registration of marriages involving NRIs (some states require)
+- NRI Marriage Registration Form available at Indian consulates
+
+NRI VOTING RIGHTS:
+- NRIs who are Indian citizens can register as overseas voters
+- Can vote in Lok Sabha and state assembly elections from abroad
+- Registration at Indian Embassy/Consulate in country of residence
+
+NRI GRIEVANCE REDRESSAL:
+- Ministry of External Affairs: mea.gov.in/overseas-indians.htm
+- Madad Portal (consular assistance): madad.gov.in
+- NRI Helpline: 1800-11-3090 (toll free from India) / +91-11-26100844 (from abroad)
+- Pravasi Bharatiya Kendra: New Delhi
+
+PART 5: OCI — OVERSEAS CITIZEN OF INDIA
+=========================================
+
+WHO CAN APPLY FOR OCI:
+- Former Indian citizens and their descendants (up to 4 generations)
+- Spouse of Indian citizen or OCI holder (not Pakistani or Bangladeshi national)
+
+BENEFITS OF OCI:
+- Multiple entry lifelong visa to India
+- No requirement to register with Foreigners Registration Office
+- Parity with NRI in financial, economic and educational fields
+- Can purchase non-agricultural immovable property
+- Cannot hold some government jobs, cannot vote, cannot become President/Vice President
+
+HOW TO APPLY:
+Online at ociservices.gov.in through the nearest Indian Mission.
+
+PART 6: EXTRADITION
+====================
+
+EXTRADITION ACT, 1962:
+India can extradite persons to and from countries with bilateral treaties.
+
+India has extradition treaties with major countries including UK, USA, 
+Australia, France, Germany, Russia, and others.
+
+EXTRADITION CANNOT HAPPEN IF:
+- The offence is of a political character
+- The person is a citizen of the country where they are
+  (India generally does not extradite its own citizens)
+- The statute of limitations has expired
+- The person may face persecution based on race, religion, nationality, or politics

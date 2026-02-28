@@ -1,0 +1,268 @@
+CYBER CRIMES AND INTERNET LAWS IN INDIA — COMPREHENSIVE GUIDE
+===============================================================
+
+PART 1: INFORMATION TECHNOLOGY ACT, 2000 (IT ACT) — DETAILED
+==============================================================
+
+The IT Act 2000 (amended in 2008) is the primary law governing cyber crimes in India.
+
+KEY OFFENCES AND PUNISHMENTS:
+
+SECTION 43 — DAMAGE TO COMPUTER (Civil Liability):
+If anyone without permission:
+- Accesses a computer, computer system or network
+- Downloads, copies or extracts data
+- Introduces viruses or contaminants
+- Damages, deletes or alters data
+- Denies access to authorised users (Denial of Service)
+- Provides assistance for any of the above
+PENALTY: Compensation up to Rs. 1 crore to the affected person.
+
+SECTION 65 — TAMPERING WITH COMPUTER SOURCE CODE:
+Concealing, destroying, altering computer source code.
+PUNISHMENT: Imprisonment up to 3 years OR Fine up to Rs. 2 lakh OR BOTH.
+
+SECTION 66 — COMPUTER RELATED OFFENCES (Hacking):
+Dishonestly or fraudulently doing any act under Section 43.
+PUNISHMENT: Imprisonment up to 3 years OR Fine up to Rs. 5 lakh OR BOTH.
+
+SECTION 66A — OFFENSIVE MESSAGES (Struck down by Supreme Court in 2015):
+This section was declared unconstitutional in Shreya Singhal vs Union of India (2015)
+for violating Freedom of Speech. Sending offensive messages online is no longer
+covered by this section. However, other sections still apply.
+
+SECTION 66B — RECEIVING STOLEN COMPUTER RESOURCE:
+Dishonestly receiving or retaining any stolen computer resource.
+PUNISHMENT: Imprisonment up to 3 years OR Fine up to Rs. 1 lakh OR BOTH.
+
+SECTION 66C — IDENTITY THEFT:
+Fraudulently using another person's electronic signature, password, or
+any other unique identification feature.
+PUNISHMENT: Imprisonment up to 3 years + Fine up to Rs. 1 lakh.
+
+SECTION 66D — CHEATING BY PERSONATION (Online):
+Cheating someone by personating another person through computer resources.
+This covers fake profiles, pretending to be someone else online.
+PUNISHMENT: Imprisonment up to 3 years + Fine up to Rs. 1 lakh.
+
+SECTION 66E — VIOLATION OF PRIVACY:
+Intentionally or knowingly capturing, publishing, or transmitting images
+of someone's private parts without consent (voyeurism).
+PUNISHMENT: Imprisonment up to 3 years OR Fine up to Rs. 2 lakh OR BOTH.
+
+SECTION 66F — CYBER TERRORISM:
+Accessing computer resources, denying access, or introducing viruses
+to threaten the unity, integrity, security or sovereignty of India.
+PUNISHMENT: Life imprisonment.
+
+SECTION 67 — PUBLISHING OBSCENE MATERIAL ONLINE:
+Publishing or transmitting obscene material in electronic form.
+PUNISHMENT: First conviction: Imprisonment up to 3 years + Fine up to Rs. 5 lakh.
+Subsequent conviction: Imprisonment up to 5 years + Fine up to Rs. 10 lakh.
+
+SECTION 67A — PUBLISHING SEXUALLY EXPLICIT MATERIAL:
+Publishing material containing sexually explicit acts.
+PUNISHMENT: First conviction: Imprisonment up to 5 years + Fine up to Rs. 10 lakh.
+Subsequent conviction: Imprisonment up to 7 years + Fine up to Rs. 10 lakh.
+
+SECTION 67B — CHILD PORNOGRAPHY:
+Publishing, browsing, or downloading child pornography (sexually explicit
+material involving children).
+PUNISHMENT: First conviction: Imprisonment up to 5 years + Fine up to Rs. 10 lakh.
+Subsequent conviction: Imprisonment up to 7 years + Fine up to Rs. 10 lakh.
+
+SECTION 72 — BREACH OF CONFIDENTIALITY AND PRIVACY:
+Disclosing confidential information obtained in the course of duties
+without the person's consent.
+PUNISHMENT: Imprisonment up to 2 years OR Fine up to Rs. 1 lakh OR BOTH.
+
+SECTION 72A — DISCLOSURE OF INFORMATION IN BREACH OF LAWFUL CONTRACT:
+Service providers and intermediaries disclosing personal information.
+PUNISHMENT: Imprisonment up to 3 years OR Fine up to Rs. 5 lakh OR BOTH.
+
+SECTION 75 — OFFENCES COMMITTED OUTSIDE INDIA:
+The IT Act applies to offences committed outside India if the computer or
+server used is located in India. India has extra-territorial jurisdiction.
+
+PART 2: CYBER BULLYING AND ONLINE HARASSMENT
+=============================================
+
+Cyberbullying has no single dedicated law but is covered by multiple laws:
+
+FOR ONLINE THREATS AND INTIMIDATION:
+- IT Act Section 66 (computer offences)
+- IPC/BNS Section 503 — Criminal intimidation
+- IPC/BNS Section 506 — Punishment for criminal intimidation
+
+FOR ONLINE STALKING:
+- BNS Section 78 — Stalking (follows, contacts, monitors person online)
+  Punishment: First offence: Imprisonment up to 3 years + Fine
+  Subsequent offence: Imprisonment up to 5 years + Fine
+
+FOR SENDING OBSCENE/OFFENSIVE MESSAGES:
+- IPC Section 354C — Voyeurism (capturing and circulating intimate images)
+- IPC Section 509 — Words, gestures insulting modesty of woman
+- BNS equivalent sections apply similarly
+
+FOR FAKE PROFILES / IMPERSONATION:
+- IT Act Section 66D — Cheating by personation
+- IPC Section 419 — Cheating by personation
+
+FOR REVENGE PORN / NON-CONSENSUAL INTIMATE IMAGES:
+- IT Act Section 66E — Violation of privacy
+- IT Act Section 67 — Obscene material
+- IPC Section 354C — Voyeurism
+Multiple punishments can run simultaneously.
+
+CYBERBULLYING IN SCHOOLS AND COLLEGES:
+- UGC Regulations apply
+- School management can take disciplinary action
+- POCSO Act applies if victim is below 18 years
+
+HOW TO REPORT CYBERBULLYING:
+1. National Cyber Crime Reporting Portal: www.cybercrime.gov.in
+2. Cybercrime helpline: 1930
+3. Local Police Cyber Cell
+4. Report to platform (social media's reporting mechanism)
+
+PART 3: ONLINE FRAUD AND FINANCIAL CYBER CRIMES
+================================================
+
+TYPES OF ONLINE FRAUD:
+1. Phishing: Fake emails/websites to steal passwords/bank details
+2. Vishing: Phone calls to steal OTP/bank details
+3. Smishing: SMS fraud — fake bank messages with malicious links
+4. UPI Fraud: Fake payment requests, QR code fraud
+5. Job Fraud: Fake job offers asking for money
+6. Lottery Fraud: You've won a lottery you never entered
+7. Investment Fraud: Fake investment schemes promising high returns
+8. Sextortion: Threatening to release intimate images unless paid
+9. SIM Swap Fraud: Taking over your mobile number to access bank accounts
+10. Online Shopping Fraud: Non-delivery of goods ordered online
+
+APPLICABLE LAWS:
+- IT Act Section 66C — Identity theft
+- IT Act Section 66D — Cheating by personation
+- IPC/BNS Section 420 — Cheating and dishonestly inducing delivery of property
+- IPC/BNS Section 415-424 — Various cheating offences
+
+IMMEDIATE STEPS IF DEFRAUDED ONLINE:
+1. CALL HELPLINE 1930 IMMEDIATELY — Within 1-2 hours for best chance of freezing money
+2. Report at: www.cybercrime.gov.in
+3. Lodge complaint at nearest cyber police station
+4. Preserve all evidence: screenshots, call recordings, transaction IDs
+5. Contact your bank immediately to report fraud and block card
+
+UPI/BANK FRAUD — ADDITIONAL STEPS:
+- Call your bank's 24-hour helpline immediately
+- Apply for chargeback if payment was made by card
+- Reserve Bank of India (RBI) complaint: www.rbi.org.in > Complaints > SACHET
+
+PART 4: SOCIAL MEDIA RELATED LAWS
+===================================
+
+WHAT CAN LAND YOU IN TROUBLE ONLINE:
+
+1. DEFAMATION: Posting false statements that harm someone's reputation.
+   - IPC Section 499/500 — Criminal defamation: Imprisonment up to 2 years
+   - Civil defamation: Compensation in civil courts
+
+2. HATE SPEECH: Promoting enmity between communities online.
+   - IPC/BNS Section 153A — Promoting enmity: Imprisonment up to 3 years
+   - Section 295A — Deliberate acts to outrage religious feelings
+
+3. FAKE NEWS: Spreading false information can attract:
+   - IPC Section 505 — Statements conducing to public mischief
+   - Disaster Management Act 2005 (during disasters/pandemic)
+
+4. COPYRIGHT INFRINGEMENT: Sharing copyrighted content without permission.
+   - Copyright Act 1957 — Civil and criminal penalties
+
+5. TROLLING/HARASSMENT:
+   - If targeted at a specific person, can be criminal intimidation or harassment
+
+YOUR RIGHTS AGAINST SOCIAL MEDIA PLATFORMS:
+- Under IT (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021:
+  - Significant Social Media Intermediaries (>50 lakh users) must appoint:
+    - Grievance Officer (Indian resident)
+    - Nodal Contact Person
+    - Chief Compliance Officer
+  - Must acknowledge complaints within 24 hours
+  - Resolve complaints within 15 days
+
+HOW TO ESCALATE SOCIAL MEDIA COMPLAINTS:
+1. First: Report to platform using built-in reporting tool
+2. Next: Contact platform's Grievance Officer
+3. Escalate: Appellate Committee (IT Rules 2021) — only if platform doesn't resolve
+4. Additionally: Complaint at cybercrime.gov.in or cyber police station
+
+PART 5: DATA PRIVACY IN INDIA
+==============================
+
+DIGITAL PERSONAL DATA PROTECTION ACT, 2023 (DPDPA):
+India's new data protection law — largely not yet in force (rules being drafted).
+
+KEY PRINCIPLES:
+1. Consent-based data processing: Companies must get your consent before
+   collecting personal data
+2. Purpose limitation: Data can only be used for the stated purpose
+3. Data minimization: Only necessary data should be collected
+4. Right to Erasure: You can ask companies to delete your data
+5. Right to Grievance: Complaint mechanism with Data Protection Board
+
+YOUR RIGHTS UNDER DPDPA:
+- Right to access: Know what data is collected about you
+- Right to correction: Correct inaccurate data
+- Right to erasure: Delete your data (Right to be Forgotten)
+- Right to grievance: Complain about data processing
+- Right to nominate: Nominate someone to exercise rights on your behalf
+
+DATA FIDUCIARY OBLIGATIONS:
+- Must maintain reasonable security safeguards
+- Notify users of data breaches promptly
+- Must publish contact details of Data Protection Officer
+
+PENALTIES (When enforcement begins):
+- Breach of child's data: Up to Rs. 200 crore
+- Failure to notify breach: Up to Rs. 200 crore
+- Inadequate security measures: Up to Rs. 250 crore
+- General violations: Up to Rs. 50 crore
+
+PART 6: CYBER CRIME HELPLINES AND RESOURCES
+============================================
+
+NATIONAL CYBERCRIME REPORTING PORTAL:
+Website: www.cybercrime.gov.in
+Phone Helpline: 1930 (24x7)
+
+WHAT CAN BE REPORTED:
+- Online financial fraud
+- Online and social media related crimes
+- Crimes against children online (CSAM)
+- Cyber stalking and bullying
+- Ransomware and data theft
+- Any other cyber crime
+
+DOCUMENTS TO KEEP READY WHEN FILING COMPLAINT:
+- Screenshots of all relevant conversations/posts
+- URLs of websites/profiles involved
+- Transaction IDs/UTR numbers for financial fraud
+- Email headers (for phishing emails)
+- Your phone number and affected account details
+- Time and date of incident
+
+CYBER FORENSICS:
+- Police have Cyber Forensic Labs to recover digital evidence
+- Do NOT delete any evidence from your device
+- Do NOT try to reformat or factory reset your device
+- Report as soon as possible — digital evidence degrades
+
+STATE CYBER CELLS:
+Every state has a Cyber Crime Investigation Cell/Unit.
+Contact your state police website for local cyber cell contact details.
+
+INTERPOL AND FOREIGN JURISDICTION CRIMES:
+For crimes originating from outside India:
+- Report to CBI's Interpol wing if international coordination is needed
+- CERT-In (Indian Computer Emergency Response Team): www.cert-in.org.in
+  For reporting large-scale cyber attacks on critical infrastructure.

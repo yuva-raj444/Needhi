@@ -1,0 +1,211 @@
+PRISON RIGHTS, UNDER-TRIAL PRISONERS AND CRIMINAL JUSTICE WELFARE
+===================================================================
+
+PART 1: RIGHTS OF PRISONERS IN INDIA
+======================================
+
+CONSTITUTIONAL RIGHTS (Cannot be waived even in prison):
+1. Article 21 — Right to life and dignity (survives imprisonment)
+2. Article 14 — Equal treatment of all prisoners
+3. Article 22 — Right to be informed of grounds of detention, right to legal counsel
+4. Article 20 — Protection against self-incrimination, double jeopardy
+
+FUNDAMENTAL RIGHTS RETAINED BY PRISONERS (Supreme Court — Sunil Batra vs Delhi Administration):
+- Right to be free from cruel and unusual punishment
+- Right not to be subjected to inhuman or degrading treatment
+- Right against solitary confinement (allowed only as last resort)
+- Right against handcuffing without justification
+- Right to access medical treatment
+- Right to have family informed
+- Right to legal aid
+- Right to meaningful communication
+
+WHAT PRISON AUTHORITIES MUST DO:
+1. Keep separate facilities for under-trial and convicted prisoners
+2. Keep women prisoners separately from men
+3. Keep juvenile offenders in special facilities
+4. Provide adequate food, water, clothing, and shelter
+5. Provide medical care
+6. Allow meetings with lawyers and family
+7. Respect religion and personal practices
+
+PRISON REFORMS — SUPREME COURT DIRECTIONS:
+Multiple Supreme Court cases (Re: Inhuman Conditions in 1382 Prisons — 2016):
+- State must provide legal aid to all under-trial prisoners
+- Periodic review of under-trial cases
+- CCTV cameras in prisons
+- Regular visits by District Magistrate to prisons
+
+PART 2: UNDER-TRIAL PRISONERS AND BAIL RIGHTS
+===============================================
+
+WHO IS AN UNDER-TRIAL PRISONER:
+A person arrested and detained in jail who has NOT yet been convicted.
+India has one of the highest proportions of under-trial prisoners globally.
+
+SECTION 436A CrPC (Now Section 479 BNSS):
+VERY IMPORTANT RIGHT:
+If an under-trial prisoner has spent HALF the maximum period of imprisonment
+prescribed for the alleged offence, they have the RIGHT to bail.
+
+Example: If maximum punishment for an offence is 6 years,
+and the accused has been in jail for 3 years without conviction — 
+RIGHT TO BAIL APPLIES.
+
+EXCEPTIONS:
+- Death penalty cases
+- Life imprisonment cases
+- Multiple pending cases
+
+HOW TO USE SECTION 436A / 479 BNSS:
+Application to the Sessions Court in the district where the case is pending.
+Present a calculation of time spent in custody.
+Court must release on personal bond or with surety.
+
+SECTION 309 CrPC — SPEEDY TRIAL:
+Under-trial prisoners have a right to speedy trial (Article 21).
+Courts must ensure cases are not endlessly adjourned.
+Hussainara Khatoon vs State of Bihar (1979): Landmark case — Supreme Court
+held that right to speedy trial is fundamental right under Article 21.
+
+PART 3: LEGAL AID FOR PRISONERS
+=================================
+
+CONSTITUTION ARTICLE 39A:
+Mandates free legal aid to ensure justice is not denied due to economic
+incapacity.
+
+LEGAL SERVICES AUTHORITIES ACT, 1987:
+Provides framework for free legal aid.
+
+FREE LEGAL AID IS AVAILABLE TO:
+- All under-trial prisoners who cannot afford a lawyer
+- All convicted prisoners who want to appeal
+- Women prisoners in all cases
+- SC/ST persons
+- Victims of mass disaster
+- Disabled persons
+- Children
+
+NATIONAL LEGAL SERVICES AUTHORITY (NALSA):
+Website: nalsa.gov.in | Helpline: 15100
+Provides free legal services and runs legal aid clinics in courts and jails.
+
+DISTRICT LEGAL SERVICES AUTHORITY (DLSA):
+Available in every district. Must be present at courts and jails.
+Every prisoner can request legal aid from DLSA.
+
+PLEA OF LEGAL AID IN COURT:
+If you or your family member is arrested and cannot afford a lawyer,
+tell the Magistrate at the first hearing:
+"I cannot afford a lawyer. I request legal aid."
+The Magistrate MUST arrange a lawyer from the legal aid panel.
+
+PART 4: TREATMENT OF SPECIAL CATEGORIES IN PRISON
+====================================================
+
+WOMEN PRISONERS:
+- Must be kept in separate female wards/jails
+- Female warders must be present
+- Searches of women prisoners only by female staff
+- Pregnant women must receive pre-natal and post-natal care
+- If convicted, pregnant women near delivery may not go to jail immediately
+- Infants can stay with mother in prison (up to 6 years of age in many states)
+
+JUVENILES IN CONFLICT WITH LAW:
+- Under Juvenile Justice Act 2015
+- Children below 18 years CANNOT be tried as adults (except offences under
+  JJ Act for heinous crimes where 16-18 year olds may be tried as adults)
+- Must be sent to Observation Home (not jail)
+- Juvenile Justice Boards handle juvenile cases
+
+ELDERLY AND SICK PRISONERS:
+- Must receive adequate medical care
+- Courts have power to release on bail for serious illness or medical ground
+- Section 437(1)(i) CrPC: Bail can be granted if accused is very ill
+
+MENTALLY ILL PRISONERS:
+- Mental Healthcare Act 2017 requires assessment before or during trial
+- Cannot be sentenced unless mental fitness is established
+- Prisons must have separate facilities for mentally ill prisoners
+
+PART 5: HABEAS CORPUS — CHALLENGING ILLEGAL DETENTION
+=======================================================
+
+WRIT OF HABEAS CORPUS:
+Latin for "produce the body."
+Filed to challenge any illegal detention by state or private person.
+
+WHERE TO FILE:
+- High Court (Article 226): State detention
+- Supreme Court (Article 32): In extreme cases, or directly for central issues
+
+NO FORMAT REQUIRED:
+Even a postcard or letter to the High Court has been treated as Habeas Corpus
+in emergencies (especially for poor persons).
+
+TIME: Habeas Corpus is an emergency remedy — courts hear it urgently,
+often the same day or next day.
+
+PREVENTIVE DETENTION:
+Government can detain a person without trial under certain laws:
+- National Security Act (NSA)
+- Prevention of Money Laundering Act (PMLA)
+- Conservation of Foreign Exchange and Prevention of Smuggling Activities Act (COFEPOSA)
+- Unlawful Activities Prevention Act (UAPA)
+
+CHALLENGE AGAINST PREVENTIVE DETENTION:
+Habeas Corpus petition in High Court.
+Government must produce the detention order and justify the grounds.
+Detenu must receive grounds of detention within 5 days (Article 22(5)).
+
+PART 6: PAROLE AND FURLOUGH
+==============================
+
+PAROLE:
+Temporary release of a convicted prisoner for a specific purpose.
+- Regular Parole: For emergencies (death in family, marriage of child, serious illness)
+- Custody Parole: Short-term release under police escort
+
+Who grants parole: State government / prison authorities (rules vary by state).
+Application to: Superintendent of Jail or Home Department.
+
+FURLOUGH:
+Periodic release for prisoners with good conduct as a reward and for rehabilitation.
+No specific reason needed unlike parole.
+Duration typically 14 days.
+
+REMISSION:
+Reduction in sentence for good behavior.
+All prisons have rules for remission — reduces actual time served.
+Life sentence = typically 14 years actual imprisonment after remissions,
+but Supreme Court has held some sentences require longer (case-specific).
+
+PART 7: NATIONAL HUMAN RIGHTS COMMISSION
+==========================================
+
+NHRC (National Human Rights Commission):
+Address: Manav Adhikar Bhawan, Block-C, GPO Complex, INA, New Delhi
+Website: nhrc.nic.in | Phone: 011-24651330 | Helpline: 14433 or 1800-180-5129
+
+WHEN TO APPROACH NHRC:
+- Custodial torture or death
+- Police high-handedness or fake encounter
+- Violation of rights of prisoners
+- Illegal detention
+
+NHRC CANNOT:
+- Take cognizance of matters older than 1 year
+- Take up cases where High Court / Supreme Court proceedings are pending
+
+STATE HUMAN RIGHTS COMMISSIONS (SHRC):
+Available in each state. For state government violations.
+
+WHAT NHRC/SHRC CAN DO:
+- Recommend compensation to victim
+- Recommend disciplinary action against errant officials
+- Recommend prosecution
+- Visit prisons and detention centres
+- Make reports to government
+
+These are recommendatory bodies — they recommend action to government.

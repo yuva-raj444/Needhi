@@ -1,0 +1,236 @@
+WHISTLEBLOWER PROTECTION, MEDIA LAWS AND PRESS FREEDOM IN INDIA
+================================================================
+
+PART 1: WHISTLEBLOWERS PROTECTION ACT, 2014
+============================================
+
+PURPOSE:
+To protect persons who expose corruption in government and public bodies.
+
+WHO IS PROTECTED:
+Any person who makes a public interest disclosure about:
+- Corruption or misuse of power by a public servant
+- Wilful misuse of discretion to cause demonstrable loss to the government
+- Violation of law by a public servant or government employee
+
+WHO CAN MAKE DISCLOSURE:
+- Any central or state government employee
+- Any person having personal knowledge of the wrongdoing
+- NGOs and public interest litigants
+
+WHERE TO MAKE DISCLOSURE:
+Central Vigilance Commission (CVC): www.cvc.gov.in
+State Vigilance Commissions (for state matters)
+
+PROTECTIONS PROVIDED:
+1. Identity of whistleblower MUST be kept confidential
+2. Whistleblower cannot be victimised (transferred, dismissed, harassed)
+3. If victimised, can apply to Competent Authority for protection
+4. Witness protection measures available
+
+LIMITATION:
+Only covers PUBLIC SERVANTS and government bodies.
+Private sector whistleblowing has limited protection.
+
+COMPANIES ACT WHISTLEBLOWER MECHANISM (SECTION 177):
+All listed companies and large private companies must establish
+a vigil mechanism (whistleblower policy) for employees to report
+genuine concerns about unethical behaviour.
+
+PART 2: FREEDOM OF PRESS IN INDIA
+===================================
+
+CONSTITUTIONAL BASIS:
+Freedom of the Press is NOT expressly mentioned in the Constitution,
+BUT it is covered under Article 19(1)(a) — Freedom of Speech and Expression.
+The Supreme Court has repeatedly held that freedom of press is part of
+freedom of expression.
+
+LIMITATIONS ON PRESS FREEDOM (Article 19(2)):
+Freedom of press can be restricted for:
+- Sovereignty and integrity of India
+- Security of the state
+- Friendly relations with foreign states
+- Public order
+- Decency and morality
+- Contempt of court
+- Defamation
+- Incitement to an offence
+
+PRESS COUNCIL OF INDIA (PCI):
+Statutory body — regulates print media.
+Website: presscouncil.nic.in | Helpline: 011-23714430
+
+FUNCTIONS:
+- Maintains press freedom
+- Sets norms for journalistic conduct
+- Takes up complaints of unethical journalism
+- Adjudicates disputes between press and public/government
+
+HOW TO COMPLAIN TO PRESS COUNCIL:
+- File complaint within 2 months of publication
+- Must exhaust remedy with the newspaper first (send notice and wait 15 days)
+- Submit complaint to Secretary, Press Council of India, New Delhi
+
+NEWS BROADCASTING AND DIGITAL STANDARDS AUTHORITY (NBDSA):
+Self-regulatory body for news TV channels.
+Website: nbdsa.in
+
+INFORMATION AND BROADCASTING MINISTRY:
+Governs broadcast media (TV and radio).
+Website: mib.gov.in
+
+DIGITAL MEDIA:
+Regulated by IT (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021.
+OTT platforms and digital news must follow the Code of Ethics.
+Three-tier complaint mechanism.
+
+PART 3: DEFAMATION LAW IN INDIA
+=================================
+
+CRIMINAL DEFAMATION (Section 499-502 IPC / Section 356 BNS):
+DEFAMATION DEFINED:
+Whoever by words spoken or written, signs, or visible representation,
+makes or publishes any imputation about a person knowing or having reason
+to believe it will harm that person's reputation, commits defamation.
+
+PUNISHMENT: Imprisonment up to 2 years, or fine, or both.
+
+EXCEPTIONS (NOT DEFAMATION):
+1. True statements made for public good
+2. Fair comment on public conduct of public servants
+3. Fair criticism of court decisions, books, performances
+4. Warning to authority about misconduct of subordinate
+5. Accusation made in good faith to proper authority
+
+CIVIL DEFAMATION:
+You can also sue for monetary compensation in civil courts.
+Civil defamation does not require criminal intent.
+Courts can award:
+- General damages (presumed harm to reputation)
+- Special damages (actual provable loss)
+- Injunction (stopping publication)
+
+TRUTH IS COMPLETE DEFENCE in civil defamation.
+In criminal defamation, truth must also be in public interest.
+
+SUBRAMANIAN SWAMY vs UNION OF INDIA (2016):
+Supreme Court upheld constitutional validity of criminal defamation.
+Stated: Reputation is protected under Article 21 (Right to Life).
+
+FAKE NEWS AND MISINFORMATION:
+Section 505 IPC/BNS — Statements conducive to public mischief.
+If false information is spread intentionally to cause public harm:
+Imprisonment up to 3 years (if in place of religious worship: up to 5 years).
+
+PART 4: CONTEMPT OF COURT
+===========================
+
+CONTEMPT OF COURTS ACT, 1971:
+Supreme Court and High Courts have inherent power to punish contempt.
+
+TYPES OF CONTEMPT:
+
+1. CIVIL CONTEMPT:
+   Wilful disobedience of a court order, decree, or undertaking.
+   Example: Not paying court-ordered alimony, violating an injunction.
+   Punishment: Imprisonment up to 6 months OR fine up to Rs. 2,000 OR both.
+
+2. CRIMINAL CONTEMPT:
+   Publications or acts that:
+   - Scandalise or lower authority of court
+   - Prejudice or interfere with course of justice
+   - Obstruct administration of justice
+   Punishment: Imprisonment up to 6 months OR fine up to Rs. 2,000 OR both.
+
+DEFENCES:
+- Innocent publication (not aware of pending proceedings)
+- Truth (if in public interest — only for High Court and Supreme Court proceedings)
+- Fair criticism of judicial act (not the judge personally)
+
+SUB-JUDICE RULE:
+Media should not publish commentary that could prejudice ongoing trials.
+Publishing confessions, criminal records during trial can be contempt.
+
+PART 5: ELECTION LAWS AND MEDIA
+=================================
+
+REPRESENTATION OF PEOPLE ACT, 1951:
+Model Code of Conduct during elections — restricts government from
+announcing new schemes during election period.
+
+PAID NEWS:
+Publishing favourable coverage as news without disclosing it is paid — is an
+electoral corrupt practice and can lead to disqualification of candidates.
+Election Commission of India (ECI) regulates this.
+
+EXIT POLLS:
+Cannot be published until the last phase of voting ends.
+Prohibited during voting hours under Section 126A of Representation of People Act.
+
+PART 6: MEDIA AND PRIVACY
+===========================
+
+STING OPERATIONS:
+Not expressly regulated by law in India.
+Courts have held: Public interest is the test — if serving genuine public interest
+and method is not disproportionate, they may be protected.
+But sting operations that violate privacy without public interest can attract:
+- IT Act Section 66E (capturing private images)
+- IPC Section 499 (defamation)
+
+RIGHT TO PRIVACY OF PUBLIC FIGURES:
+While public figures have reduced privacy in their public roles, they retain
+privacy in their personal and family matters.
+R. Rajagopal vs State of Tamil Nadu (1994): Landmark case — publications
+about private life without consent violates right to privacy.
+
+PART 7: JOURNALISTS' RIGHTS AND PROTECTIONS
+=============================================
+
+PRESS ACCREDITATION:
+Government gives press accreditation cards to reporters for coverage.
+No accreditation is required to practice journalism in India (unlike
+many other countries) — journalism is a free profession.
+
+SHIELD LAWS (Source Protection):
+India does NOT have a dedicated shield law.
+BUT courts have recognised some protection of journalist sources
+in specific circumstances (based on Article 19(1)(a)).
+
+ARRESTS OF JOURNALISTS:
+Several journalists have faced FIRs under:
+- Sedition (Section 124A IPC — now BNS Section 152) — Constitutionality challenged
+- UAPA (Unlawful Activities Prevention Act)
+- IT Act Section 66A (now struck down by Shreya Singhal judgment)
+
+LEGAL SUPPORT FOR JOURNALISTS:
+- Press Club of India: New Delhi (pressclubindia.org)
+- Editors Guild of India: editorsguild.in
+- Foundation for Media Professionals: lawyerscollective.org/fmp
+- Committee to Protect Journalists (CPJ): cpj.org
+
+PART 8: SEDITION LAW IN INDIA (CURRENT STATUS)
+================================================
+
+SECTION 124A IPC (SEDITION):
+Originally: "Whoever by words, signs, visible representations excites
+or attempts to excite disaffection towards the Government shall be
+punished with imprisonment for life."
+
+IMPORTANT UPDATE:
+In May 2022, the Supreme Court directed that sedition cases be
+put on hold and governments not to file new cases under Section 124A IPC
+until the law is reconsidered.
+
+BHARATIYA NYAYA SANHITA (BNS) 2023:
+Section 124A IPC (sedition) has been repealed in BNS.
+Instead, BNS Section 152 covers "acts endangering sovereignty or unity of India"
+which is a NEW and broader provision.
+
+CURRENT STATUS:
+BNS Section 152 covers: Exciting secession, rebellion, subversive activities,
+endangering sovereignty.
+Punishment: Life imprisonment or 7 years imprisonment.
+
+Critics argue this is effectively a replacement for sedition with even broader scope.

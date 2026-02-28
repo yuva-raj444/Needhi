@@ -1,0 +1,36 @@
+D:\niral\backend\venv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+19:01:07 | Embedding model: models/gemini-embedding-001
+19:01:07 | Vector dimension: 3072
+19:01:07 | Using direct REST API (no internal retries)
+19:01:07 | 
+Found 22 documents in app\data\sample_docs
+19:01:07 |   \U0001f4c4 Bharatiya_Nagarik_Suraksha_Sanhita_2023_BNSS.txt: 34 chunks
+19:01:07 |   \U0001f4c4 Bharatiya_Nyaya_Sanhita_2023.txt: 43 chunks
+19:01:07 |   \U0001f4c4 Bharatiya_Sakshya_Adhiniyam_2023_BSA.txt: 21 chunks
+19:01:07 |   \U0001f4c4 Child_Marriage_Dowry_Sexual_Harassment_Juvenile_Justice.txt: 30 chunks
+19:01:07 |   \U0001f4c4 Constitution_of_India_Part_III_Fundamental_Rights.txt: 31 chunks
+19:01:07 |   \U0001f4c4 Constitution_of_India_Part_IV_DPSP_Duties.txt: 22 chunks
+19:01:07 |   \U0001f4c4 Consumer_Protection_Act.txt: 8 chunks
+19:01:07 |   \U0001f4c4 CPC_Arbitration_and_Lok_Adalat.txt: 22 chunks
+19:01:07 |   \U0001f4c4 Domestic_Violence_Act.txt: 5 chunks
+19:01:07 |   \U0001f4c4 Environment_IP_Banking_Laws.txt: 21 chunks
+19:01:07 |   \U0001f4c4 Family_Law_Hindu_Marriage_Succession.txt: 32 chunks
+19:01:07 |   \U0001f4c4 Government_Welfare_Schemes_and_Legal_Aid.txt: 23 chunks
+19:01:07 |   \U0001f4c4 Indian_Contract_Act_and_NI_Act.txt: 31 chunks
+19:01:07 |   \U0001f4c4 IPC_Sample.txt: 11 chunks
+19:01:07 |   \U0001f4c4 Labour_Codes_and_RTE_Act.txt: 24 chunks
+19:01:07 |   \U0001f4c4 Land_Acquisition_and_Property_Law.txt: 27 chunks
+19:01:07 |   \U0001f4c4 Motor_Vehicles_Act_and_POCSO.txt: 28 chunks
+19:01:07 |   \U0001f4c4 Muslim_Christian_Personal_Law.txt: 21 chunks
+19:01:07 |   \U0001f4c4 Practical_Legal_Procedures_How_To_Guide.txt: 21 chunks
+19:01:07 |   \U0001f4c4 RTI_Act_2005_and_IT_Act_2000.txt: 34 chunks
+19:01:07 |   \U0001f4c4 SC_ST_Act_Prevention_of_Corruption_Arms_NDPS.txt: 31 chunks
+19:01:07 |   \U0001f4c4 Tenancy_Rights.txt: 5 chunks
+19:01:07 | 
+Total chunks to embed: 525
+19:01:07 | 
+\U0001f504 --reset flag: starting fresh
+19:01:07 | 
+Testing API connection...
+19:01:08 |   API rate-limited, waiting 61s... (1/15)

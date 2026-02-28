@@ -1,0 +1,183 @@
+ELECTION LAWS, VOTING RIGHTS AND POLITICAL PARTICIPATION IN INDIA
+==================================================================
+
+PART 1: REPRESENTATION OF THE PEOPLE ACT, 1950 AND 1951
+=========================================================
+
+VOTING RIGHTS:
+Every Indian citizen above 18 years is eligible to vote.
+No discrimination based on caste, religion, gender, class, or education.
+
+ELECTION COMMISSION OF INDIA (ECI):
+Constitutional body under Article 324.
+Superintendence, direction, and control of elections.
+Website: eci.gov.in | Helpline: 1950
+
+CHIEF ELECTION COMMISSIONER:
+Independent — can only be removed like a Supreme Court judge.
+(PENDING: Supreme Court directed more transparent appointment process)
+
+PART 2: VOTER REGISTRATION
+============================
+
+WHO CAN REGISTER:
+- Indian citizen
+- 18 years or above
+- Ordinary resident of the constituency
+
+HOW TO REGISTER:
+1. Online: voters.eci.gov.in (Form 6)
+2. Offline: Form 6 to Electoral Registration Officer (ERO) of your constituency
+3. Through Common Service Centre (CSC)
+
+DOCUMENTS REQUIRED:
+- Proof of identity (Aadhaar, passport, etc.)
+- Proof of address (utility bill, bank statement, etc.)
+- Date of birth proof (if disputed)
+
+ELECTORAL ROLL:
+Published by Election Commission — you can check your name at:
+electoralsearch.eci.gov.in
+
+PHOTO VOTER ID CARD (EPIC):
+Not mandatory for voting — any of 12 alternative documents can be used.
+Alternative documents: Aadhaar, passport, PAN, service identity card, etc.
+
+PART 3: ELECTION PROCESS
+==========================
+
+GENERAL ELECTIONS (LOK SABHA):
+Every 5 years. 543 constituencies. First Past the Post system.
+
+STATE ELECTIONS (VIDHAN SABHA):
+Every 5 years per state.
+
+RAJYA SABHA:
+Members elected by State Legislative Assembly MLAs.
+Not directly elected by people.
+
+ELECTION DATES ANNOUNCED BY ECI:
+Model Code of Conduct (MCC) comes into effect from the date of announcement.
+
+MODEL CODE OF CONDUCT (MCC):
+Rules for political parties and candidates during election period:
+- No new government schemes or freebies announced
+- Government resources cannot be used for campaign
+- Religious/caste-based appeals prohibited
+- Polling booth locations cannot be changed without permission
+
+PART 4: CANDIDATE ELIGIBILITY AND DISQUALIFICATION
+====================================================
+
+WHO CAN CONTEST ELECTIONS:
+- Indian citizen
+- 25 years for Lok Sabha / State Assembly
+- 30 years for Rajya Sabha / Legislative Council
+- Registered as voter in India
+
+DISQUALIFICATION OF CANDIDATES (SECTION 8 REPRESENTATION OF PEOPLE ACT):
+A person is disqualified if convicted and sentenced to imprisonment of 2 years
+or more. Disqualification applies from date of conviction.
+Duration: Period of imprisonment + 6 years after release.
+
+ANTI-DEFECTION LAW (TENTH SCHEDULE, CONSTITUTION):
+If an elected member voluntarily gives up membership of their party,
+OR votes against the party's direction on a confidence/no-confidence motion,
+they can be disqualified from their seat.
+Decision by: Speaker of Lok Sabha / Speaker of Vidhan Sabha.
+
+CRIMINAL BACKGROUND DISCLOSURE:
+All candidates MUST declare criminal cases pending against them on their
+nomination form. Voters have the right to know this information.
+Available at myneta.info (voter information website).
+
+PART 5: ELECTION OFFENCES AND CORRUPT PRACTICES
+=================================================
+
+CORRUPT PRACTICES (SECTION 123 RPA 1951):
+These can invalidate the election result:
+- Bribery (paying voters to vote)
+- Undue influence (threatening voters)
+- Making appeals on the basis of religion, race, caste, community, or language
+- Publishing false statements about a candidate
+- Booth capturing
+- Hiring vehicles to bring voters to polling booth
+
+PENALTIES:
+Corrupt practices: Election can be set aside by High Court.
+Candidate guilty of corrupt practice: Disqualified for 6 years.
+
+ELECTION BRIBERY (DISTRIBUTING MONEY/GIFTS):
+- Briber: Imprisonment up to 1 year or fine or both
+- Voter accepting bribe: Same penalty
+- Report bribery to local police or ECI's flying squad: cVIGIL App (official ECI app)
+
+cVIGIL APP (ELECTION COMMISSION):
+Citizens can report electoral violations through this app.
+Available on Android and iOS.
+Reports go directly to ECI's flying squad.
+
+PART 6: RIGHT TO VOTE — PRACTICAL ASPECTS
+==========================================
+
+ELECTION HOLIDAYS:
+Your employer MUST give you a paid holiday on the day of election
+(Representation of the People Act). If employer refuses: Report to ECI.
+
+VOTING PROCESS:
+1. Check your name on electoral roll at electoralsearch.eci.gov.in
+2. Find your polling booth
+3. Go to booth with voter ID or any valid ID
+4. Voter ID card is verified by polling officer
+5. Fingers marked with indelible ink
+6. Ballot paper / EVM (Electronic Voting Machine) button pressed
+
+ELECTRONIC VOTING MACHINES (EVM):
+Used in all Indian elections since 2000.
+Supreme Court has upheld EVMs as reliable.
+Voter Verifiable Paper Audit Trail (VPAPT) introduced for verification.
+
+RIGHT TO REJECT (NOTA):
+Voters can choose "None Of The Above" (NOTA) option if they don't want
+to vote for any candidate. NOTA was introduced in 2013 as per Supreme Court order.
+Note: Even if NOTA gets the highest votes, the candidate with highest valid votes wins.
+
+PART 7: ELECTION DISPUTES AND REMEDIES
+========================================
+
+ELECTION PETITION:
+If you believe the election was won through corrupt practices, you can
+file an Election Petition in the High Court within 45 days of the result.
+
+GROUNDS:
+- Corrupt practice by winning candidate or their agent
+- Non-compliance with election rules materially affecting result
+- Candidate not qualified
+
+RELIEF:
+- Declaring the election void
+- Declaring the petitioner as the elected candidate
+
+CASE EXAMPLE: Famous election petitions include those challenging close
+elections — High Court has powers to order fresh counting or fresh polls.
+
+PART 8: RIGHT TO INFORMATION (RTI) IN ELECTIONS
+=================================================
+
+Voters have the right to know:
+- Election expenditure statements of candidates
+- Affidavits (assets, liabilities, criminal cases) of candidates
+- Audit reports of political parties
+
+All available at: affidavit.eci.gov.in and myneta.info
+
+ELECTORAL BONDS (Current Status):
+Supreme Court struck down the Electoral Bond scheme in February 2024
+(Association for Democratic Reforms vs Union of India).
+Bonds declared unconstitutional for violating right to information
+and free and fair elections.
+
+FUNDING OF ELECTIONS:
+Maximum election expenditure limits set by ECI.
+Candidates must maintain accounts and file expenditure statements.
+Exceeding limit: Disqualification.

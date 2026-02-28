@@ -1,0 +1,250 @@
+BHARATIYA NYAYA SANHITA, 2023 (BNS) — NEW CRIMINAL CODE OF INDIA
+(Replaced the Indian Penal Code, 1860 w.e.f. 1st July 2024)
+
+CHAPTER I — PRELIMINARY
+
+SECTION 1 — SHORT TITLE, COMMENCEMENT AND APPLICATION
+This Act may be called the Bharatiya Nyaya Sanhita, 2023. It extends to the whole of India except the State of Jammu and Kashmir.
+
+SECTION 2 — DEFINITIONS
+Key definitions:
+- "Act" includes illegal omission
+- "Dishonestly" — doing anything with the intention of causing wrongful gain or wrongful loss
+- "Fraudulently" — doing anything with intent to defraud
+- "Voluntarily" — a person is said to cause an effect "voluntarily" when he causes it by means whereby he intended to cause it
+
+CHAPTER II — GENERAL EXPLANATIONS
+
+SECTION 4 — OFFENCES COMMITTED OUTSIDE INDIA
+Any person liable by any Indian law to be tried for an offence committed beyond India shall be dealt with according to this Sanhita.
+
+SECTION 6 — DEFINITIONS IN THE SANHITA TO BE UNDERSTOOD SUBJECT TO EXCEPTIONS
+Every definition of an offence must be understood subject to the General Exceptions (Chapter III).
+
+CHAPTER III — GENERAL EXCEPTIONS (Sections 14-33)
+
+SECTION 14 — ACT DONE BY A PERSON BOUND OR JUSTIFIED BY LAW
+Nothing is an offence which is done by a person who is bound by law to do it, or justified by law in doing it.
+
+SECTION 15 — ACT OF JUDGE WHEN ACTING JUDICIALLY
+Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power given by law.
+
+SECTION 18 — ACT OF A CHILD UNDER SEVEN
+Nothing is an offence which is done by a child under seven years of age.
+
+SECTION 19 — ACT OF A CHILD ABOVE SEVEN AND UNDER TWELVE OF IMMATURE UNDERSTANDING
+Nothing is an offence which is done by a child above seven years of age and under twelve, who has not attained sufficient maturity of understanding.
+
+SECTION 22 — ACT OF PERSON OF UNSOUND MIND
+Nothing is an offence which is done by a person who, at the time of doing it, is of unsound mind and is incapable of knowing the nature of the act.
+
+SECTION 23 — ACT CAUSED BY INTOXICATION AGAINST WILL
+Nothing is an offence if done by a person who was intoxicated involuntarily.
+
+SECTION 25 — ACT DONE IN GOOD FAITH FOR BENEFIT OF A PERSON WITHOUT CONSENT
+Nothing is an offence which is done in good faith for the benefit of a person, even without their consent, if it would be impossible to get consent in time.
+
+SECTION 34 — RIGHT OF PRIVATE DEFENCE OF BODY AND PROPERTY
+Every person has a right to defend his own body and the body of any other person, and the property of himself or of any other person, against any offence.
+
+SECTION 35 — RIGHT OF PRIVATE DEFENCE EXTENDS TO CAUSING DEATH
+The right of private defence of the body extends to the voluntary causing of death if the offence reasonably causes the apprehension of death or grievous hurt.
+
+CHAPTER IV — ABETMENT (Sections 45-50)
+
+SECTION 45 — ABETMENT OF A THING
+A person abets the doing of a thing when he instigates, engages in a conspiracy, or intentionally aids any person to do that thing.
+
+SECTION 47 — ABETMENT OF AN OFFENCE
+A person abets an offence who abets either the commission of an offence, or the commission of an act which would be an offence.
+
+SECTION 48 — PUNISHMENT FOR ABETMENT IF ACT ABETTED IS COMMITTED
+Whoever abets an offence shall, if the act abetted is committed in consequence of the abetment, be punished with the punishment provided for the offence.
+
+CHAPTER V — CRIMINAL CONSPIRACY (Sections 61-62)
+
+SECTION 61 — CRIMINAL CONSPIRACY
+When two or more persons agree to do or cause to be done an illegal act, or an act which is not illegal but by illegal means, such an agreement is designated a criminal conspiracy.
+Punishment: If the offence is punishable with death, imprisonment for life, or rigorous imprisonment for two years or more — same as abetment. In other cases — imprisonment up to six months, or fine, or both.
+
+CHAPTER VI — OFFENCES AGAINST THE STATE (Sections 147-153)
+
+SECTION 147 — SEDITION (REDEFINED)
+Acts endangering sovereignty, unity and integrity of India:
+Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years and shall also be liable to fine.
+(Note: This replaces the old Section 124A IPC sedition law)
+
+CHAPTER VII — OFFENCES AGAINST THE BODY
+
+SECTION 100 — CULPABLE HOMICIDE
+Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.
+
+SECTION 101 — MURDER
+Culpable homicide is murder if the act by which death is caused is done with the intention of causing death, or if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause death, or if it is done with the intention of causing bodily injury sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must in all probability cause death.
+Punishment: Death or imprisonment for life, and fine.
+(Replaces old IPC Section 300/302)
+
+SECTION 103 — PUNISHMENT FOR MURDER
+(1) Whoever commits murder shall be punished with death or imprisonment for life and shall also be liable to fine.
+(2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.
+
+SECTION 104 — PUNISHMENT FOR CULPABLE HOMICIDE NOT AMOUNTING TO MURDER
+Imprisonment for life, or imprisonment up to ten years, and fine.
+
+SECTION 105 — DOWRY DEATH
+Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called "dowry death", and such husband or relative shall be deemed to have caused her death.
+Punishment: Imprisonment for not less than seven years, which may extend to imprisonment for life.
+(Replaces old IPC Section 304B)
+
+SECTION 106 — DEATH CAUSED BY RASH OR NEGLIGENT ACT
+(1) Whoever causes death by doing any rash or negligent act not amounting to culpable homicide — imprisonment up to five years and fine.
+(2) Whoever causes death by rash and negligent driving and escapes without reporting — imprisonment up to ten years and fine.
+(This is a new provision specifically for hit-and-run cases)
+
+SECTION 109 — ATTEMPT TO MURDER
+Whoever does any act with the intention or knowledge to cause death — imprisonment up to ten years and fine. If hurt is caused — imprisonment for life or up to ten years and fine.
+
+SECTION 115 — VOLUNTARILY CAUSING GRIEVOUS HURT
+Imprisonment up to seven years and fine. (Replaces old IPC Section 325)
+
+SECTION 117 — VOLUNTARILY CAUSING GRIEVOUS HURT BY DANGEROUS WEAPONS OR MEANS
+Imprisonment up to seven years, or imprisonment for life, and fine.
+
+SECTION 118 — VOLUNTARILY CAUSING HURT OR GRIEVOUS HURT BY USE OF ACID
+Not less than ten years imprisonment, extendable to imprisonment for life, and fine. (New strengthened provision)
+
+CHAPTER VIII — OFFENCES AGAINST WOMEN
+
+SECTION 63 — RAPE
+A man is said to commit "rape" if he penetrates or performs sexual acts under circumstances including: against her will, without her consent, with consent obtained by threat or fear, when she is unable to communicate consent, or when she is under 18 years of age.
+Punishment: Rigorous imprisonment for not less than ten years, which may extend to imprisonment for life, and fine.
+(Replaces old IPC Section 375/376)
+
+SECTION 64 — PUNISHMENT FOR RAPE
+(1) Whoever commits rape — not less than 10 years RI, extendable to life imprisonment, and fine.
+(2) Whoever commits rape on a woman under sixteen years of age — not less than 20 years RI, extendable to life imprisonment or death.
+
+SECTION 65 — RAPE BY POLICE OFFICER, PUBLIC SERVANT, MEMBER OF ARMED FORCES, ETC.
+Not less than 10 years RI, extendable to imprisonment for life (remaining natural life).
+
+SECTION 66 — RAPE OF WOMAN UNDER TWELVE YEARS
+Rigorous imprisonment for not less than twenty years, extendable to imprisonment for life (remaining natural life) or death.
+
+SECTION 67 — GANG RAPE
+Not less than twenty years RI, extendable to imprisonment for life (remaining natural life).
+
+SECTION 68 — GANG RAPE ON WOMAN UNDER EIGHTEEN YEARS
+Imprisonment for life (remaining natural life) or death.
+
+SECTION 69 — SEXUAL INTERCOURSE BY EMPLOYING DECEITFUL MEANS OR BY MAKING FALSE PROMISE
+Whoever, by deceitful means or by making promise to marry and fails to marry, induces a woman to have sexual intercourse — imprisonment up to 10 years and fine. (New provision in BNS)
+
+SECTION 74 — ASSAULT OR CRIMINAL FORCE TO WOMAN WITH INTENT TO OUTRAGE HER MODESTY
+Imprisonment not less than one year, extendable to five years, and fine.
+
+SECTION 75 — SEXUAL HARASSMENT
+Any man who makes unwelcome physical contact, demands sexual favours, shows pornography, or makes sexually coloured remarks — imprisonment up to three years, or fine, or both.
+(Replaces old IPC Section 354A)
+
+SECTION 76 — ASSAULT OR USE OF CRIMINAL FORCE WITH INTENT TO DISROBE
+Imprisonment not less than three years, extendable to seven years, and fine.
+
+SECTION 77 — VOYEURISM
+Imprisonment not less than one year, extendable to three years, and fine. For second conviction — not less than three years, extendable to seven years.
+
+SECTION 78 — STALKING
+First offence — imprisonment up to three years and fine. Second conviction — imprisonment up to five years and fine.
+
+SECTION 79 — WORD, GESTURE OR ACT INTENDED TO INSULT MODESTY OF WOMAN
+Simple imprisonment up to three years and fine. (Replaces old Section 509 IPC)
+
+SECTION 85 — CRUELTY BY HUSBAND OR HIS RELATIVE
+Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.
+"Cruelty" means:
+(a) any willful conduct likely to cause physical or mental injury or suffering;
+(b) harassment for dowry demands;
+(c) harassment causing the woman to commit suicide or risk her life.
+(Replaces old IPC Section 498A)
+
+SECTION 86 — DOWRY PROHIBITION
+Demanding dowry directly or indirectly — imprisonment not less than six months, extendable to two years, and fine up to ten thousand rupees.
+
+CHAPTER IX — OFFENCES RELATING TO MARRIAGE
+
+SECTION 80 — DOWRY DEATH (see also Section 105)
+Section 80 covers situations where death occurs under suspicious circumstances within 7 years of marriage in context of dowry harassment.
+
+SECTION 81 — COHABITATION CAUSED BY DECEITFULLY INDUCING BELIEF OF LAWFUL MARRIAGE
+Imprisonment up to ten years and fine.
+
+SECTION 82 — MARRYING AGAIN DURING LIFETIME OF HUSBAND OR WIFE (BIGAMY)
+Imprisonment up to seven years and fine.
+
+SECTION 84 — HUSBAND OF WOMAN GUILTY OF CRUELTY
+Imprisonment up to three years and fine. (Replaces old Section 498A)
+
+CHAPTER X — OFFENCES AGAINST PROPERTY
+
+SECTION 303 — THEFT
+Whoever dishonestly moves any moveable property out of the possession of any person without that person's consent — imprisonment up to three years, or fine, or both.
+(Replaces old IPC Section 378/379)
+
+SECTION 305 — SNATCHING
+Theft by sudden or quick seizure — imprisonment up to three years and fine. (New provision)
+
+SECTION 306 — ROBBERY
+If theft is committed with causing death, hurt, or fear of death/hurt — imprisonment up to ten years and fine. If committed on highway between sunset and sunrise — imprisonment up to fourteen years.
+
+SECTION 308 — DACOITY
+When five or more persons conjointly commit or attempt to commit robbery — imprisonment not less than seven years.
+
+SECTION 309 — ROBBERY OR DACOITY WITH ATTEMPT TO CAUSE DEATH OR GRIEVOUS HURT
+Imprisonment for life or rigorous imprisonment up to ten years, and fine.
+
+SECTION 316 — CRIMINAL BREACH OF TRUST
+Whoever dishonestly misappropriates or converts property entrusted to him — imprisonment up to five years, or fine, or both.
+(Replaces old IPC Section 405/406)
+
+SECTION 318 — CHEATING
+Whoever deceives any person and thereby dishonestly induces that person to deliver property — imprisonment up to three years, or fine, or both.
+(Replaces old IPC Section 415/420)
+
+SECTION 319 — CHEATING AND DISHONESTLY INDUCING DELIVERY OF PROPERTY
+Imprisonment up to seven years and fine. (Replaces old IPC Section 420 — the famous "420" for fraud)
+
+SECTION 329 — CRIMINAL TRESPASS
+Entering or remaining on property in possession of another with intent to commit an offence or to intimidate — imprisonment up to three months, or fine up to five thousand rupees, or both.
+
+SECTION 330 — HOUSE TRESPASS
+Imprisonment up to one year, or fine up to five thousand rupees, or both.
+
+SECTION 331 — HOUSE BREAKING
+Entering a building by making a passage or breaking through any lock/bolt/door — imprisonment up to two years and fine.
+
+CHAPTER XI — CRIMINAL INTIMIDATION, INSULT AND ANNOYANCE
+
+SECTION 351 — CRIMINAL INTIMIDATION
+Whoever threatens another with injury to his person, reputation or property with intent to cause alarm — imprisonment up to two years, or fine, or both. If the threat is to cause death or grievous hurt — imprisonment up to seven years, or fine, or both.
+
+SECTION 352 — INTENTIONAL INSULT WITH INTENT TO PROVOKE BREACH OF PEACE
+Simple imprisonment up to two years, or fine, or both.
+
+NEW PROVISIONS IN BNS 2023:
+
+SECTION 111 — ORGANISED CRIME
+Continuing unlawful activity including kidnapping, extortion, land grabbing, contract killing, cyber-crime committed on behalf of a crime syndicate — imprisonment for life and fine not less than ten lakh rupees. If causing death — death or life imprisonment and fine not less than ten lakh rupees.
+
+SECTION 112 — PETTY ORGANISED CRIME
+Theft, snatching, cheating, selling of adulterated goods committed as a member of a group — imprisonment up to seven years and fine.
+
+SECTION 113 — TERRORIST ACT (New)
+Any act intended to threaten the unity, integrity, security or sovereignty of India, or to strike terror in people — death or imprisonment for life and fine not less than ten lakh rupees. Conspiracy — imprisonment of 5 years to life and fine.
+
+SECTION 69 — SEXUAL INTERCOURSE BY DECEITFUL MEANS (New)
+Sexual intercourse by making false promise of marriage — imprisonment up to ten years and fine.
+
+SECTION 106(2) — HIT AND RUN (New)
+If a person causing death by rash driving escapes without reporting — imprisonment up to ten years and fine.
+
+SECTION 303(2) — USE OF ANY ELECTRONIC MEANS TO COMMIT THEFT (New)
+Applies to digital/cyber theft scenarios.

@@ -1,0 +1,206 @@
+PRACTICAL LEGAL PROCEDURES — HOW TO FILE COMPLAINTS AND SEEK REMEDIES IN INDIA
+
+HOW TO FILE AN FIR (FIRST INFORMATION REPORT):
+
+STEP 1: Visit the nearest police station (Section 173 BNSS)
+- You can file an FIR at ANY police station (Zero FIR provision)
+- The police CANNOT refuse to register your FIR
+- If they refuse, approach the Superintendent of Police or file an e-FIR
+
+STEP 2: Provide information
+- Give oral or written account of the incident
+- Include: What happened, when, where, who was involved, witnesses
+- The police will write it down and read it back to you
+- Sign the FIR after verifying the contents
+
+STEP 3: Collect your copy
+- You are entitled to a FREE COPY of the FIR
+- Note the FIR number for future reference
+- If police refuses to give a copy, this is a violation of law
+
+STEP 4: Follow up
+- The investigation must be completed within 90 days (for offences punishable up to 3 years) or 180 days (for offences punishable with more than 3 years)
+- You can request a status report from the Investigation Officer
+
+WHAT IF POLICE REFUSES TO REGISTER FIR?
+1. Send a written complaint by registered post to the Superintendent of Police
+2. Approach the Judicial Magistrate under Section 175(3) BNSS (formerly 156(3) CrPC) to direct the police to investigate
+3. File a complaint with the State Human Rights Commission
+4. File a writ petition before the High Court
+
+---
+
+HOW TO FILE A CASE IN COURT:
+
+CIVIL CASE:
+1. Engage a lawyer (or approach Legal Aid if you cannot afford one)
+2. Draft a plaint (statement of claim) with:
+   - Name and address of plaintiff and defendant
+   - Facts of the case
+   - Cause of action
+   - Relief sought
+   - Verification and signature
+3. Pay court fees (based on the value of the claim)
+4. File in the court having jurisdiction (territorial and pecuniary)
+5. Court issues summons to the defendant
+6. Defendant files Written Statement within 30-90 days
+7. Issues are framed
+8. Evidence is recorded
+9. Arguments are heard
+10. Judgment is delivered
+
+CRIMINAL CASE (Private Complaint):
+1. File a complaint before the Judicial Magistrate
+2. Magistrate examines the complainant and witnesses on oath
+3. If the Magistrate finds sufficient ground, issues process (summons/warrant) to the accused
+4. Accused appears and pleads
+5. Prosecution evidence → Defence evidence → Arguments → Judgment
+
+---
+
+HOW TO APPROACH THE HIGH COURT:
+
+WRIT PETITION UNDER ARTICLE 226:
+When your fundamental or legal rights are violated by any authority, you can file a writ petition directly in the High Court.
+Types of writs:
+1. Habeas Corpus — illegal detention
+2. Mandamus — to compel a public authority to do its duty
+3. Certiorari — to quash an order of a lower court/tribunal
+4. Prohibition — to prevent a lower court from exceeding jurisdiction
+5. Quo Warranto — to question someone holding a public office without authority
+
+PIL (PUBLIC INTEREST LITIGATION):
+Any citizen can file a PIL in the High Court or Supreme Court for:
+- Violation of fundamental rights of a group
+- Environmental protection
+- Corruption in public offices
+- Non-implementation of laws
+- Any issue of public interest
+NO COURT FEE for PIL. Can be filed by writing a letter to the court (epistolary jurisdiction).
+
+---
+
+HOW TO FILE A COMPLAINT IN CONSUMER COURT:
+
+STEP 1: Send a legal notice to the seller/service provider
+- Give 15 days to respond
+
+STEP 2: If no response, file a complaint:
+- Online at e-daakhil.nic.in
+- Or in person at the Consumer Forum
+- Pay the prescribed fee (Rs 100 for claims up to Rs 5 lakh)
+
+STEP 3: Include the following:
+- Your name and address
+- Name and address of opposite party
+- Date of purchase/service
+- Description of defect/deficiency
+- Relief claimed
+- Supporting documents (bills, receipts, warranty cards)
+
+STEP 4: The Commission will issue notice to the opposite party
+STEP 5: Hearing and evidence
+STEP 6: Order/Judgment
+
+---
+
+HOW TO FILE AN RTI APPLICATION:
+
+STEP 1: Identify the public authority
+STEP 2: Write the application:
+- Address to: The Public Information Officer (PIO), [Name of Authority]
+- Subject: Application under Right to Information Act, 2005
+- Body: "I would like to seek the following information under the RTI Act, 2005: [List your questions clearly]"
+- Attach fee: Rs 10 (Central Government); varies for state governments
+- BPL applicants: No fee (attach BPL certificate)
+
+STEP 3: Submit:
+- By post (registered/speed post recommended)
+- In person at the office
+- Online at rtionline.gov.in (for Central Government)
+
+STEP 4: Response within 30 days (48 hours if it concerns life/liberty)
+
+STEP 5: If not satisfied or no response:
+- First Appeal: To the First Appellate Authority within 30 days
+- Second Appeal: To the Information Commission within 90 days
+
+---
+
+HOW TO CLAIM MOTOR ACCIDENT COMPENSATION:
+
+STEP 1: File an FIR at the nearest police station
+
+STEP 2: File a claim petition before the Motor Accident Claims Tribunal (MACT)
+- Can be filed by the injured person, legal representatives (in case of death), or the agent
+- Within 6 months of the accident (tribunal can condone delay)
+
+STEP 3: Include in the petition:
+- Details of the accident (date, time, place, vehicles involved)
+- Details of injuries or death
+- Income details of the victim
+- Medical bills and records
+- Claim amount
+
+STEP 4: The Tribunal will issue notice to the insurer and owner of the vehicle
+STEP 5: Hearing, evidence, cross-examination
+STEP 6: Award
+
+IMPORTANT: Even if the driver was at fault and had no licence, or the vehicle had no insurance, you can still claim compensation. The MACT can order the owner to pay, or in hit-and-run cases, the Motor Accident Claims Fund/Solatium Fund provides compensation.
+
+---
+
+HOW TO GET BAIL:
+
+BAILABLE OFFENCE:
+- Bail is a RIGHT
+- Apply to the police officer or court
+- The officer/court MUST grant bail
+
+NON-BAILABLE OFFENCE:
+- Bail is at the DISCRETION of the court
+- Apply to the Magistrate court or Sessions court
+- Factors considered: Nature of offence, severity of punishment, character of accused, likelihood of fleeing justice, likelihood of tampering with evidence
+
+ANTICIPATORY BAIL (Section 482 BNSS):
+- Applied for BEFORE arrest
+- Filed in Sessions Court or High Court
+- If granted, the person cannot be arrested
+
+DEFAULT BAIL (Section 479 BNSS):
+- If the police fail to file chargesheet within the prescribed time (60/90 days for minor offences, 90/180 days for major offences), the accused has an INDEFEASIBLE RIGHT to bail
+
+---
+
+ALTERNATIVE DISPUTE RESOLUTION (ADR) IN INDIA:
+
+1. ARBITRATION: Private adjudication by neutral arbitrator(s). Binding. Under Arbitration Act 1996.
+2. MEDIATION: Neutral mediator facilitates settlement. Non-binding until agreement. Under Mediation Act 2023.
+3. CONCILIATION: Third party assists parties to reach settlement. Non-binding process. Under Arbitration Act Part III.
+4. LOK ADALAT: People's court. No court fees. Award is final, no appeal. Under Legal Services Authorities Act 1987.
+5. CONSUMER MEDIATION: For consumer disputes, under Consumer Protection Act 2019.
+6. FAMILY COURT MEDIATION/COUNSELLING: For matrimonial disputes, mandatory before proceeding to trial.
+
+MEDIATION ACT, 2023 (NEW):
+- Standalone legislation for mediation in India
+- Pre-litigation mediation before filing suit (mandatory in some cases)
+- Mediation to be completed within 120 days (extendable by 60 days)
+- Mediated settlement agreement enforceable as court decree
+- Online mediation recognized
+- Community mediation for local disputes
+
+---
+
+COMMON HELPLINE NUMBERS:
+- Police: 100 or 112 (Emergency)
+- Women Helpline: 181 or 1091
+- Child Helpline: 1098
+- Senior Citizens Helpline: 14567
+- National Human Rights Commission: 1800-345-4334
+- Cyber Crime: www.cybercrime.gov.in or 1930
+- Consumer Helpline: 1800-11-4000 or 14404
+- Legal Aid: Contact nearest DLSA
+- Domestic Violence: 181 (Women Helpline)
+- Anti-Corruption: 1031
+- Road Accident Emergency: 1073
+- Ambulance: 108 or 102

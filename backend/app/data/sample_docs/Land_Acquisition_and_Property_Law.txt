@@ -1,0 +1,163 @@
+LAND ACQUISITION, REHABILITATION AND RESETTLEMENT ACT, 2013 (LARR ACT)
+
+PURPOSE: To regulate land acquisition by the government, ensure fair compensation, rehabilitation and resettlement of affected families.
+
+SECTION 2 — DEFINITIONS
+(1) "Affected family" includes:
+(a) A family whose land or other immovable property has been acquired;
+(b) A family which is dependent on the land being acquired for its livelihood;
+(c) A family whose primary source of livelihood for three years prior to acquisition is dependent on forests or water bodies;
+(d) A family assigned land by the Government under any scheme and such land is being acquired.
+
+SECTION 3 — APPLICATION
+This Act applies when the Government acquires land for its own use, hold and control, or for Public-Private Partnership projects, or for private companies.
+
+SECTION 10 — PRELIMINARY INVESTIGATION AND SOCIAL IMPACT ASSESSMENT
+(1) Whenever the appropriate Government intends to acquire land, it shall carry out a Social Impact Assessment study in consultation with the Gram Sabha or equivalent body.
+(2) The SIA shall include: assessment of affected families, impact on livelihood, extent of land, number of affected people, etc.
+
+SECTION 11 — PRELIMINARY NOTIFICATION
+After SIA, the Government shall publish a preliminary notification with details of land to be acquired.
+
+SECTION 19 — PUBLICATION OF DECLARATION
+After hearing objections, the Government may declare that the land is required for a public purpose.
+
+SECTION 23 — LAND ACQUISITION PROCESS
+The Government shall:
+1. Conduct Social Impact Assessment
+2. Publish preliminary notification
+3. Hear objections
+4. Publish declaration
+5. Determine compensation
+6. Make the award
+7. Take possession
+
+SECTION 26 — DETERMINATION OF MARKET VALUE
+(1) The Collector shall adopt the highest of the following as the market value:
+(a) The market value as per Indian Stamp Act for registration in the area;
+(b) The average of the higher half of sale deeds of similar land in the previous three years;
+(c) The consented amount paid for recently acquired land under the Act in the area.
+
+SECTION 27 — DETERMINATION OF AMOUNT OF COMPENSATION
+Compensation = Market Value of Land + Value of Assets + Solatium (100% of market value) + 12% interest per annum from date of notification.
+For rural areas: Market value is multiplied by a factor of 1 to 2 (based on distance from urban area).
+
+EFFECTIVE COMPENSATION:
+Rural areas: Approximately 4 times the market value (market value × 2 multiplier + 100% solatium)
+Urban areas: Approximately 2 times the market value (market value + 100% solatium)
+
+SECTION 28 — SOLATIUM
+100% of the total compensation amount shall be given as solatium. This is in addition to the compensation for land and assets.
+
+SECTION 30 — REHABILITATION AND RESETTLEMENT AWARD
+In addition to compensation, each affected family shall be entitled to:
+(1) A house (if displaced): As per the Indira Awaas Yojana specifications
+(2) Land for land: Where government land is available (at least 1 acre irrigated or 2 acres unirrigated)
+(3) One-time subsistence allowance: Rs 36,000
+(4) Annual subsistence: Rs 12,000 per year for 12 years (adjusted to CPI)
+(5) Employment: One member of the family shall be given employment or Rs 5 lakh per family, or Rs 2,000 per month per family for 20 years (with inflation adjustment)
+(6) Transportation cost: Rs 50,000
+(7) Cattle shed/petty shop: If any cattle shed/petty shop is lost
+
+SECTION 31 — MULTIPLE DISPLACEMENT
+If a family has been displaced more than once, the compensation shall be increased by a factor determined by the appropriate Government.
+
+SECTION 38 — NO CHANGE OF PURPOSE
+The land acquired shall not be transferred to another use without the consent of the affected families. If land is not used for 5 years, it must be returned to the original owner or to a land bank.
+
+SECTION 63 — ESTABLISHMENT OF REHABILITATION AND RESETTLEMENT AUTHORITY
+The appropriate Government shall constitute a Rehabilitation and Resettlement Authority at State level.
+
+SECTION 64 — APPEAL TO HIGH COURT
+Any person dissatisfied with the award may appeal to the High Court within 60 days.
+
+---
+
+TRANSFER OF PROPERTY ACT, 1882 — COMPREHENSIVE PROVISIONS
+
+SECTION 5 — TRANSFER OF PROPERTY DEFINED
+"Transfer of property" means an act by which a living person conveys property to one or more other living persons, or to himself and one or more other living persons.
+
+SECTION 6 — WHAT MAY BE TRANSFERRED
+Property of any kind may be transferred, except:
+(a) Chance of an heir-apparent succeeding to an estate (spes successionis);
+(b) Right of re-entry;
+(c) An easement apart from the dominant heritage;
+(d) An interest in property restricted in its enjoyment to the owner personally;
+(e) Right to future maintenance;
+(f) A mere right to sue.
+
+SECTION 10 — CONDITION RESTRAINING ALIENATION
+Where property is transferred subject to a condition absolutely restraining the transferee from alienating it, the condition is void.
+
+SECTION 52 — DOCTRINE OF LIS PENDENS
+During the pendency of any suit in which any right to immovable property is directly and specifically in question, the property cannot be transferred or otherwise dealt with by any party to the suit so as to affect the rights of any other party thereto.
+
+SECTION 53A — PART PERFORMANCE
+Where a transferee has, in part performance of a contract of transfer, taken possession of the property and has performed or is willing to perform his part of the contract, the transferor cannot enforce any right against the transferee, even if the document of transfer has not been registered.
+
+SECTION 54 — SALE OF IMMOVABLE PROPERTY
+"Sale" is a transfer of ownership in exchange for a price paid or promised. For tangible immovable property of value Rs 100 or more, the sale must be made by a registered instrument.
+
+SECTION 58 — MORTGAGE
+A "mortgage" is the transfer of an interest in specific immoveable property for the purpose of securing the payment of money advanced or to be advanced by way of loan.
+
+TYPES OF MORTGAGE:
+(a) Simple mortgage: Mortgagor binds himself personally to pay; if default, mortgagee may sell by court order.
+(b) Mortgage by conditional sale: Mortgagor ostensibly sells with condition that on default, sale becomes absolute.
+(c) Usufructuary mortgage: Mortgagor delivers possession; mortgagee receives rents and profits in lieu of interest.
+(d) English mortgage: Mortgagor transfers property absolutely with condition of re-transfer upon repayment.
+(e) Mortgage by deposit of title deeds (equitable mortgage): Delivery of title deeds to creditor with intent to create security.
+(f) Anomalous mortgage: Any mortgage not falling under the above categories.
+
+SECTION 105 — LEASE
+A lease of immoveable property is a transfer of a right to enjoy such property, made for a certain time, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value.
+
+SECTION 106 — DURATION OF CERTAIN LEASES IN ABSENCE OF AGREEMENT
+(1) Agricultural/manufacturing purposes: Year-to-year lease; terminable on 6 months' notice
+(2) Other purposes: Month-to-month lease; terminable on 15 days' notice
+
+SECTION 108 — RIGHTS AND LIABILITIES OF LESSOR AND LESSEE
+LESSOR'S OBLIGATIONS:
+(a) Disclose material defects known to him;
+(b) Put the lessee in possession;
+(c) Allow quiet enjoyment;
+(d) Make repairs as agreed.
+
+LESSEE'S OBLIGATIONS:
+(a) Disclose defects in his own title to the lessor;
+(b) Pay rent as agreed;
+(c) Maintain the property;
+(d) Not erect permanent structures without consent;
+(e) Restore the property on termination.
+
+---
+
+INDIAN EASEMENTS ACT, 1882 — KEY PROVISIONS
+
+SECTION 4 — EASEMENT DEFINED
+An easement is a right which the owner or occupier of certain land possesses, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent and continue to prevent something being done, in or upon or in respect of, certain other land.
+
+SECTION 15 — EASEMENT BY PRESCRIPTION (LONG USE)
+If an easement has been peaceably and openly enjoyed for 20 years (or 30 years against the government), the right becomes absolute.
+
+EXAMPLES: Right of way, right of light and air, right to drain water, right to support, right to flow of water.
+
+---
+
+REGISTRATION ACT, 1908 — KEY PROVISIONS
+
+SECTION 17 — DOCUMENTS OF WHICH REGISTRATION IS COMPULSORY
+(1) Instruments which transfer or assign immovable property of value Rs 100 or more;
+(2) Instruments of gift of immovable property;
+(3) Non-testamentary instruments which create or declare any interest in immovable property;
+(4) Instruments of partition of immovable property;
+(5) Leases of immovable property for more than one year.
+
+SECTION 23 — TIME FOR PRESENTING DOCUMENTS
+Documents must be presented for registration within 4 months of execution. If delayed, with payment of a fine, within a further 4 months.
+
+SECTION 49 — EFFECT OF NON-REGISTRATION
+No document required to be registered shall affect any immovable property comprised therein, or be received as evidence of any transaction affecting such property, unless it has been registered.
+
+STAMP DUTY: Registration requires payment of stamp duty (varies by state, usually 5-10% of property value) and registration charges (usually 1% of property value).

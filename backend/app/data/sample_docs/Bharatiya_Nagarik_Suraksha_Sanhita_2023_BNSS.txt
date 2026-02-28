@@ -1,0 +1,175 @@
+BHARATIYA NAGARIK SURAKSHA SANHITA, 2023 (BNSS) — NEW CODE OF CRIMINAL PROCEDURE
+(Replaced the Code of Criminal Procedure, 1973 w.e.f. 1st July 2024)
+
+CHAPTER I — PRELIMINARY
+
+SECTION 1 — SHORT TITLE AND COMMENCEMENT
+This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023. It extends to the whole of India except the State of Jammu and Kashmir.
+
+SECTION 2 — DEFINITIONS
+Key definitions:
+(a) "Bailable offence" — an offence which is shown as bailable in the First Schedule, or which is made bailable by any other law
+(b) "Charge" — includes any head of charge when the charge contains more heads than one
+(c) "Cognizable offence" — an offence for which a police officer may arrest without warrant
+(d) "Non-cognizable offence" — an offence for which a police officer has no authority to arrest without warrant
+(e) "Investigation" — includes all proceedings under this Sanhita for the collection of evidence by a police officer
+(f) "Summons-case" — a case relating to an offence not being a warrant-case
+(g) "Warrant-case" — a case relating to an offence punishable with death, imprisonment for life, or imprisonment for a term exceeding two years
+
+CHAPTER II — CONSTITUTION OF CRIMINAL COURTS AND OFFICES
+
+Hierarchy of Criminal Courts:
+1. Supreme Court (highest)
+2. High Courts
+3. Sessions Courts (District level)
+4. Judicial Magistrate First Class
+5. Judicial Magistrate Second Class
+6. Executive Magistrate
+
+Sentencing Powers:
+- Sessions Judge: Any sentence including death (death sentence requires High Court confirmation)
+- Additional Sessions Judge: Any sentence except death
+- Chief Judicial Magistrate: Imprisonment up to 7 years
+- Judicial Magistrate First Class: Imprisonment up to 3 years, or fine up to Rs 10,000, or both
+- Judicial Magistrate Second Class: Imprisonment up to 1 year, or fine up to Rs 5,000, or both
+
+CHAPTER III — POWER OF COURTS
+
+SECTION 14 — COURTS BY WHICH OFFENCES ARE TRIABLE
+Every offence shall be tried by the court specified in the First Schedule or by a court constituted under any law.
+
+CHAPTER XII — INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE
+
+SECTION 173 — INFORMATION IN COGNIZABLE CASES (FIR - FIRST INFORMATION REPORT)
+(1) Every information relating to the commission of a cognizable offence, if given orally, shall be reduced to writing by the officer in charge of a police station and shall be signed by the person giving the information.
+(2) A copy of the information as recorded shall be given forthwith, free of cost, to the informant.
+(3) Any person aggrieved by a refusal to record information may send the substance of the information to the Superintendent of Police.
+
+NEW PROVISION — ZERO FIR
+An FIR can be filed at ANY police station regardless of jurisdiction. The FIR will then be transferred to the appropriate police station. This is a significant new provision ensuring that no citizen is turned away.
+
+NEW PROVISION — E-FIR
+FIRs can now be filed electronically through digital means. This allows citizens to file complaints without physically visiting a police station.
+
+SECTION 174 — INFORMATION IN NON-COGNIZABLE CASES
+The police officer shall enter the information in a book and refer the informant to the Magistrate.
+
+SECTION 175 — PROCEDURE FOR INVESTIGATION
+(1) The officer investigating may examine any person acquainted with the facts of the case.
+(2) Such person shall be bound to answer all questions truthfully, except those that would expose him to a criminal charge.
+(3) The police officer may reduce to writing any statement made during examination.
+
+SECTION 176 — SEARCH BY POLICE OFFICER
+A police officer making an investigation may search any place in which he has reason to believe that anything necessary for investigation may be found.
+
+CHAPTER XIII — ARREST OF PERSONS
+
+SECTION 35 — WHEN POLICE MAY ARREST WITHOUT WARRANT
+(1) Any police officer may, without an order from a Magistrate and without a warrant, arrest any person:
+(a) who commits a cognizable offence in the presence of the officer;
+(b) against whom a reasonable complaint has been made or credible information has been received of having committed a cognizable offence punishable with imprisonment up to seven years;
+(c) who has been proclaimed as an offender;
+(d) in whose possession anything is found which may reasonably be suspected to be stolen property;
+(e) who obstructs a police officer while in the execution of his duty;
+(f) who is a deserter from the armed forces;
+(g) who is reasonably suspected of being a proclaimed offender from another state.
+
+(3) NEW PROVISION: No police officer shall arrest any person in cases where the offence is punishable with imprisonment for a term of less than three years, except under specific circumstances (prior conviction, necessity, etc.). This is a significant safeguard against unnecessary arrests.
+
+SECTION 36 — HOW ARREST IS MADE
+(1) The police officer or other person making the arrest shall actually touch or confine the body of the person being arrested.
+(2) If such person forcibly resists the endeavour to arrest him, the officer may use all means necessary to effect the arrest.
+(3) Nothing in this section gives a right to cause the death of a person who is not accused of an offence punishable with death or with imprisonment for life.
+
+SECTION 37 — ARREST OF WOMAN
+No woman shall be arrested after sunset and before sunrise except in exceptional circumstances. The arrest must be made by a woman police officer. The woman must be informed of her right to have a family member or friend present.
+
+RIGHTS OF ARRESTED PERSON:
+1. Right to know the grounds of arrest (Article 22 of Constitution)
+2. Right to be produced before a magistrate within 24 hours (Section 187)
+3. Right to consult a lawyer of choice
+4. Right to be examined by a medical officer
+5. Right to inform a friend/relative of arrest
+6. Right to free legal aid if unable to afford a lawyer
+7. Right against handcuffing (except in special circumstances)
+8. Right against torture or ill-treatment
+NEW: Right to have the arrest memo signed by a family member or respectable person of the locality
+
+CHAPTER XIV — BAIL AND BONDS
+
+SECTION 478 — WHEN BAIL MAY BE TAKEN IN CASE OF NON-BAILABLE OFFENCE
+(1) When any person accused of a non-bailable offence is arrested or detained, he may be released on bail.
+(2) The court shall consider the nature and gravity of the accusation, criminal antecedents of the accused, and whether there is reasonable ground to believe that the accusation is well-founded.
+(3) NEW PROVISION — MANDATORY BAIL: Where a person has been detained for a period extending to one-half of the maximum period of imprisonment specified for that offence, the person shall be released on bail. (Previously Section 436A CrPC)
+
+SECTION 479 — BAIL PROVISIONS (NEW)
+(1) Bail is the rule, jail is the exception.
+(2) Where a person is accused of an offence punishable with imprisonment of three years or less, the person shall ordinarily be released on bail.
+(3) No person shall remain in custody for more than the maximum period of sentence for that offence.
+
+SECTION 480 — BAIL FOR WOMEN, SICK AND INFIRM
+Any court may direct that any woman, sick or infirm person accused of a non-bailable offence be released on bail.
+
+ANTICIPATORY BAIL (SECTION 482):
+(1) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction that in the event of such arrest, he shall be released on bail.
+(2) The court may grant anticipatory bail with conditions.
+
+CHAPTER XV — TRIAL PROCEDURES
+
+SECTION 254 — CHARGE
+(1) For every distinct offence, there shall be a separate charge.
+(2) Every charge shall state the offence with which the accused is charged.
+
+SECTION 262 — COMMENCEMENT OF TRIAL
+On the date fixed for trial, the Magistrate shall proceed to hear the prosecution and take all such evidence as may be produced.
+
+SECTION 263 — RIGHT OF ACCUSED TO CROSS-EXAMINE
+The accused shall be entitled to cross-examine the witnesses for the prosecution.
+
+SECTION 313 — EXAMINATION OF ACCUSED
+(1) The court may, at any stage, examine the accused for the purpose of enabling him to explain any circumstances appearing in the evidence against him.
+(2) The accused shall not be administered an oath while being examined.
+
+MANDATORY TIMELINES (NEW IN BNSS):
+
+1. Trial in sessions court must be completed within 60 days of framing of charge (for offences punishable with imprisonment up to life)
+2. Trial in magistrate court must be completed within 60 days (summary trials within 30 days)
+3. Judgment must be pronounced within 30 days of completion of arguments (extendable by 15 days with reasons)
+4. First hearing of appeal must be within 30 days of filing
+5. Investigation must be completed within 90 days for offences punishable up to 3 years, and 180 days for offences punishable with more than 3 years
+
+CHAPTER XVI — APPEALS AND REVISION
+
+SECTION 394 — APPEAL TO HIGH COURT
+Any person convicted by a Sessions Judge or Additional Sessions Judge may appeal to the High Court.
+
+SECTION 395 — APPEAL TO SESSIONS COURT
+Any person convicted by a Magistrate may appeal to the Sessions Court.
+
+SECTION 401 — NO APPEAL IN CERTAIN CASES
+No appeal shall lie when the accused pleads guilty and is convicted on such plea.
+
+SECTION 442 — REVISION
+The High Court or any Sessions Judge may call for and examine the record of any proceeding before any inferior Criminal Court for the purpose of satisfying itself as to the correctness of any finding, sentence, or order.
+
+KEY NEW PROVISIONS IN BNSS 2023:
+
+1. ZERO FIR — FIR can be filed at any police station regardless of jurisdiction
+2. E-FIR — Electronic filing of FIR
+3. MANDATORY VIDEOGRAPHY OF SEARCH AND SEIZURE — All search and seizure operations must be videographed
+4. ELECTRONIC SUMMONS — Courts can issue summons via electronic means (SMS, email, WhatsApp)
+5. TRIAL IN ABSENTIA — Trial can proceed if accused absconds and fails to appear (Section 356)
+6. COMMUNITY SERVICE — Introduced as a punishment for minor offences
+7. MERCY PETITION TIMELINE — Death row convicts must file mercy petition within 30 days; President/Governor must decide within 60 days
+8. VICTIM COMPENSATION — Mandatory interim compensation to victims within 14 days of order
+9. FORENSIC INVESTIGATION — Mandatory forensic visit for offences punishable with 7+ years
+10. ELECTRONIC EVIDENCE — Specific provisions for collection and preservation of electronic evidence
+11. WITNESS PROTECTION — Comprehensive framework for protection of witnesses
+12. PLEA BARGAINING — Extended to cover more offences (Section 270)
+
+SECTION 356 — TRIAL IN ABSENTIA (NEW)
+When an accused person has absconded to evade trial and there is no immediate prospect of arresting him, the court may proceed with the trial in his absence after giving a period of 90 days.
+
+SECTION 530 — PLEA BARGAINING
+(1) A person accused of an offence may file an application for plea bargaining.
+(2) Available for offences punishable with imprisonment up to seven years (not for offences affecting socioeconomic condition of country or committed against woman/child under 14).

@@ -1,0 +1,247 @@
+CORPORATE AND COMPANY LAW IN INDIA — BUSINESSES, DIRECTORS AND SHAREHOLDERS
+=============================================================================
+
+PART 1: COMPANIES ACT, 2013 — OVERVIEW
+========================================
+
+The Companies Act 2013 governs the formation, regulation, and winding up of companies in India.
+Administered by the Ministry of Corporate Affairs (MCA).
+MCA Portal: www.mca.gov.in
+
+TYPES OF COMPANIES:
+
+1. PRIVATE LIMITED COMPANY:
+   - Minimum 2 shareholders, Maximum 200 shareholders
+   - Minimum 2 directors (1 must be Indian resident)
+   - "Pvt. Ltd." in name
+   - Cannot raise money from public
+   - Most common business structure in India
+
+2. PUBLIC LIMITED COMPANY:
+   - Minimum 7 shareholders, no maximum limit
+   - Minimum 3 directors
+   - "Ltd." in name
+   - Can raise money from public (IPO)
+
+3. ONE PERSON COMPANY (OPC):
+   - Single shareholder/director
+   - Limited liability protection
+   - Must convert when turnover exceeds Rs. 2 crore
+
+4. LIMITED LIABILITY PARTNERSHIP (LLP):
+   - Governed by LLP Act 2008
+   - Partners have limited liability
+   - No minimum capital requirement
+
+5. SECTION 8 COMPANY (NON-PROFIT):
+   - For charitable/religious/educational purposes
+   - Profits reinvested, not distributed
+
+6. PRODUCER COMPANY:
+   - For farmers, artisans, and producers
+   - Governed by Companies Act but specific sections apply
+
+PART 2: INCORPORATION OF A COMPANY
+=====================================
+
+STEPS TO REGISTER A COMPANY:
+1. Obtain Digital Signature Certificate (DSC) for directors
+2. Apply for Director Identification Number (DIN) on MCA portal
+3. Reserve company name through MCA portal (RUN form)
+4. File SPICe+ form (Simplified Proforma for Incorporating Company Electronically)
+5. Memorandum of Association (MoA) and Articles of Association (AoA) drafted
+6. Certificate of Incorporation issued by Registrar of Companies (ROC)
+
+MANDATORY POST-INCORPORATION STEPS:
+- PAN and TAN registration
+- GST registration (if turnover threshold crossed)
+- Bank account opening
+- Shops and Establishments Act registration
+- Professional Tax registration (state-specific)
+- EPFO/ESIC registration (when employees join)
+
+MEMORANDUM OF ASSOCIATION (MoA):
+The constitution of the company — defines the company's objects/purpose.
+A company can only do activities mentioned in its MoA.
+
+ARTICLES OF ASSOCIATION (AoA):
+Internal rules and regulations of the company — how it is managed.
+
+PART 3: SHAREHOLDERS' RIGHTS
+==============================
+
+BASIC RIGHTS OF SHAREHOLDERS:
+1. Right to vote at general meetings (one share = one vote typically)
+2. Right to receive dividends when declared
+3. Right to attend Annual General Meeting (AGM)
+4. Right to inspect company books and annual report
+5. Right to transfer shares (subject to Articles of Association)
+6. Right to receive notice of meetings
+7. Right to appoint proxy to vote on your behalf
+
+ANNUAL GENERAL MEETING (AGM):
+- Must be held every year within 6 months of financial year end
+- Within 9 months for first AGM
+- 21 days notice must be given to all shareholders
+
+EXTRAORDINARY GENERAL MEETING (EGM):
+Called for special resolutions — merger, major policy changes, etc.
+
+OPPRESSION AND MISMANAGEMENT (Sections 241-246):
+If majority shareholders oppress minority shareholders, the minority can:
+- Apply to National Company Law Tribunal (NCLT) for relief
+- NCLT can regulate the affairs of the company
+
+PART 4: DIRECTOR'S DUTIES AND LIABILITIES
+===========================================
+
+DUTIES OF DIRECTORS (Section 166):
+1. Act in accordance with the Articles
+2. Act in good faith for the benefit of company and shareholders
+3. Exercise independent judgment
+4. Exercise reasonable care, skill, and diligence
+5. Avoid conflicts of interest
+6. Not accept benefits from third parties
+7. Declare interest in related party transactions
+
+DISQUALIFICATION OF DIRECTORS (Section 164):
+A person cannot be a director if:
+- Declared of unsound mind by court
+- Insolvent / adjudicated bankrupt
+- Convicted of offence involving moral turpitude (5+ years)
+- Final order of conviction for offence punishable with 6 months imprisonment
+- Company has not filed annual returns for 3 consecutive years
+
+DIRECTOR IDENTIFICATION NUMBER (DIN):
+Unique number allotted to each director.
+Mandatory for all directors of Indian companies.
+
+INDEPENDENT DIRECTORS:
+- Listed companies must have 1/3 independent directors
+- No material financial relationship with company
+- Maximum tenure: 2 terms of 5 years each
+
+PART 5: COMPANY ACCOUNTS AND AUDIT
+=====================================
+
+FINANCIAL YEAR:
+Companies must follow April 1 to March 31 as financial year.
+
+ANNUAL RETURN:
+Every company must file Annual Return (MGT-7) with ROC within 60 days of AGM.
+
+FINANCIAL STATEMENTS:
+Must be filed with ROC (Form AOC-4) within 30 days of AGM.
+
+STATUTORY AUDIT:
+Mandatory for all companies. Auditor appointed at each AGM.
+
+CORPORATE SOCIAL RESPONSIBILITY (CSR):
+Section 135: Companies with:
+- Net worth Rs. 500 crore or more, OR
+- Turnover Rs. 1,000 crore or more, OR
+- Net profit Rs. 5 crore or more
+Must spend 2% of average net profit of last 3 years on CSR activities.
+
+PART 6: MERGERS AND ACQUISITIONS
+===================================
+
+MERGER / AMALGAMATION (Sections 230-232):
+- Application to NCLT for approval
+- Shareholders and creditors must approve
+- Tax implications need careful planning
+
+TAKEOVER:
+SEBI Takeover Code (for listed companies):
+- If acquiring 25%+ shares, must make Open Offer to public shareholders (for another 26%)
+- Protects minority shareholders from forced buyout at low price
+
+INSOLVENCY AND BANKRUPTCY CODE (IBC), 2016:
+- For companies that cannot pay debts
+- Corporate Insolvency Resolution Process (CIRP)
+- Application to NCLT by creditors or debtors
+- 180 days + 90 days extension for resolution
+- If no resolution: Liquidation
+- IBBI (Insolvency and Bankruptcy Board of India): www.ibbi.gov.in
+
+PART 7: PARTNERSHIP FIRMS
+============================
+
+INDIAN PARTNERSHIP ACT, 1932:
+Traditional partnership structure (unlimited liability).
+
+KEY FEATURES:
+- Minimum 2 partners, maximum 50 partners (banking: 10 partners)
+- Registration optional but advisable (unregistered partnerships
+  cannot file suits in court for enforcing their rights)
+- Partners are jointly and severally liable for firm's debts (UNLIMITED liability)
+- Partnership deed should specify: profit sharing ratio, duties, dissolution
+
+DISSOLUTION OF PARTNERSHIP:
+- By agreement
+- By court order (misconduct, persistent breach, mental incapacity)
+- By insolvency
+- By notice (for at-will partnerships)
+
+LLP vs PARTNERSHIP FIRM:
+LLP: Limited liability, separate legal entity, more compliance.
+Firm: Unlimited liability, no separate legal entity, simpler structure.
+
+PART 8: STARTUP INDIA
+========================
+
+STARTUP INDIA (Government scheme):
+Website: startupindia.gov.in
+
+ELIGIBILITY:
+- Incorporated less than 10 years ago
+- Annual turnover less than Rs. 100 crore in any year
+- Working towards innovation/improvement of products or services
+- Not formed by splitting or restructuring an existing business
+
+BENEFITS:
+1. Income tax exemption for 3 consecutive years in first 10 years
+2. Exemption from Capital Gains Tax on investments
+3. Self-certification compliance (Labour and Environment)
+4. Fast-track patent examination at 80% reduced fee
+5. Easy winding up (30 days under IBC)
+6. Access to Fund of Funds corpus
+
+HOW TO REGISTER:
+Online application at: startupindia.gov.in
+Recognition by DPIIT (Department for Promotion of Industry and Internal Trade).
+
+PART 9: COMPETITION LAW
+=========================
+
+COMPETITION ACT, 2002:
+Prevents anti-competitive practices.
+Administered by Competition Commission of India (CCI).
+Website: cci.gov.in | Helpline: 011-46218400
+
+PROHIBITED PRACTICES:
+1. Agreements reducing competition:
+   - Price fixing (cartels)
+   - Market sharing
+   - Bid rigging
+   All "void" under the Act.
+
+2. Abuse of Dominant Position:
+   Dominant company cannot:
+   - Impose unfair prices or conditions
+   - Limit supply to harm consumers
+   - Deny market access to competitors
+   - Use predatory pricing (selling below cost to eliminate competitors)
+
+3. Combinations (Mergers exceeding threshold):
+   Must be notified to CCI before completion.
+   CCI reviews impact on competition.
+
+PENALTIES:
+- Anti-competitive agreements: Up to 10% of average annual turnover, or 3 times profit
+- Abuse of dominance: Up to 10% of annual turnover
+- Failure to notify combination: Up to 1% of combined turnover
+
+HOW TO FILE COMPLAINT WITH CCI:
+Online: cci.gov.in > For Consumers > File Information
+Or write to Director General, CCI, New Delhi.

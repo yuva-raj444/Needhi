@@ -1,0 +1,219 @@
+INSURANCE LAWS, MOTOR ACCIDENT CLAIMS AND FINANCIAL CONSUMER RIGHTS
+====================================================================
+
+PART 1: INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY (IRDAI)
+================================================================
+
+Insurance is regulated by IRDAI (Insurance Regulatory and Development Authority of India).
+Website: irdai.gov.in | Helpline: 155255 / 1800-4254-732
+
+IRDAI BIMA BHAROSA (INSURANCE GRIEVANCE PORTAL):
+Website: bimabharosa.irdai.gov.in
+For all insurance complaints and grievances.
+
+PART 2: LIFE INSURANCE
+========================
+
+WHAT IS LIFE INSURANCE:
+Financial protection for family in case of policyholder's death.
+
+TYPES:
+1. Term Insurance: Pure death benefit, no maturity benefit
+2. Endowment: Death benefit + savings component
+3. ULIP (Unit Linked Insurance Plan): Insurance + investment
+4. Whole Life: Coverage for entire life
+5. Money-back: Periodic survival benefits
+
+YOUR RIGHTS AS A POLICYHOLDER:
+
+1. FREE LOOK PERIOD:
+   You can cancel any new insurance policy within 30 days of receiving it
+   WITHOUT any penalty and get full refund (minus risk premium for coverage period).
+   This is your right — no company can deny this.
+
+2. RIGHT AGAINST MISSELLING:
+   If a policy was sold to you by providing wrong information or pressure,
+   you can file complaint with IRDAI.
+
+3. RIGHT TO CLAIM SETTLEMENT:
+   Life insurance claim must be settled within 30 days of receiving
+   all documents. If investigation needed: 90 days maximum.
+
+4. NOMINATION:
+   You must nominate someone to receive the claim. Can be changed anytime.
+   Nominees should keep the policy documents safely.
+
+CLAIM REJECTION:
+If claim is rejected:
+- Ask for written reasons for rejection
+- If reason is incorrect/unjustified:
+  1. Complaint to insurance company's Grievance Cell
+  2. Complaint to Insurance Ombudsman (within 1 year of rejection)
+  3. Consumer Forum
+  4. Civil Court
+
+INSURANCE OMBUDSMAN:
+Available in all major cities. FREE and QUICK resolution.
+Website: ecoi.co.in | Helpline: 155255
+
+PART 3: HEALTH INSURANCE
+==========================
+
+KEY HEALTH INSURANCE TERMS:
+
+1. SUM INSURED: Maximum coverage amount per year
+2. PREMIUM: Annual payment for the policy
+3. WAITING PERIOD: Time before certain conditions are covered
+   - Initial waiting period: Usually 30 days (except accidents)
+   - Pre-existing disease waiting period: Usually 2-4 years
+4. CASHLESS FACILITY: Hospital charges directly settled with insurer
+5. REIMBURSEMENT: Pay first, then claim from insurer
+6. CO-PAY: % of claim you must pay (e.g., 10% co-payment)
+7. SUB-LIMIT: Cap on specific treatments (e.g., room rent limits)
+8. EXCLUSIONS: What the policy does NOT cover
+
+MANDATORY HEALTH INSURANCE PORTABILITY:
+You can switch health insurer without losing benefits like accumulated
+no-claim bonus or pre-existing disease waiting period credit.
+Inform new insurer at least 45 days before policy renewal.
+
+INSURER CANNOT REJECT RENEWAL:
+Once you have a policy for 8 continuous years, insurer cannot reject
+renewal based on claims made (principle of non-forfeiture).
+
+PRE-EXISTING DISEASE:
+After 4 years of continuous coverage (sometimes 2 years), pre-existing
+diseases must be covered by insurer.
+
+CLAIM REJECTION GROUNDS (Common):
+- Non-disclosure of pre-existing condition (READ FORM CAREFULLY before signing)
+- Treatment not covered
+- Waiting period not over
+- Policy lapsed due to non-payment
+
+HOW TO CONTEST REJECTION:
+1. Internal grievance redressal of the insurer (respond within 15 days)
+2. IRDAI Bima Bharosa portal: bimabharosa.irdai.gov.in
+3. Insurance Ombudsman: ecoi.co.in
+4. Consumer Forum (FOMCA)
+
+AYUSHMAN BHARAT:
+Government's flagship health insurance scheme.
+Free hospitalization up to Rs. 5 lakh per year for eligible families.
+Helpline: 14555 | Website: pmjay.gov.in
+
+PART 4: MOTOR ACCIDENT CLAIMS
+===============================
+
+MOTOR VEHICLES ACT, 1988:
+All motor vehicles must have THIRD PARTY liability insurance by law.
+Driving without valid third-party insurance: Fine Rs. 2,000 (first offence).
+
+MOTOR ACCIDENTS CLAIMS TRIBUNAL (MACT):
+Dedicated tribunal for settling accident compensation claims.
+Established under Motor Vehicles Act.
+
+WHO CAN CLAIM:
+- Accident victim (for injury)
+- Family members (for death)
+- Property owner (for property damage)
+
+THIRD PARTY CLAIM PROCESS:
+1. FIR must be lodged at nearest police station
+2. File claim petition at MACT (Motor Accidents Claims Tribunal)
+3. Notice is served on insurance company and vehicle owner
+4. Evidence: FIR, medical bills, death certificate, post-mortem report
+5. Award by Tribunal
+
+SECOND SCHEDULE — COMPENSATION FOR DEATH:
+Multiplier method: Monthly income × Multiplier (based on age) = Compensation
+Dependency deduction: 1/3rd if one earner and 2 dependents
+Additional heads: Funeral expenses, loss of estate, pain and suffering
+
+INTERIM RELIEF:
+Tribunal can award 50% of likely compensation as interim (preliminary)
+payment to help victims while case is pending.
+
+NO-FAULT LIABILITY (Section 140 MV Act):
+Accident victims can get quick compensation without proving fault:
+- Death: Rs. 50,000
+- Grievous injury: Rs. 25,000
+
+DRUNK DRIVING ACCIDENTS:
+Insurance company CAN recover amount paid from the driver if they were drunk.
+Drunk driving is a criminal offence — separate proceedings under IPC/BNS.
+
+PART 5: BANKING AND FINANCIAL CONSUMER RIGHTS
+===============================================
+
+BANKING OMBUDSMAN (OMBUDSMAN SCHEME 2006):
+Free complaint resolution for banking grievances.
+Website: bankingombudsman.rbi.org.in | Helpline: 14448
+
+WHO CAN COMPLAIN:
+Any customer of a bank against:
+- Failure to pay deposit
+- Non-payment of demand drafts
+- Non-payment of pension
+- Fraudulent debit to account
+- Credit card grievances
+- Excessive charges
+- Non-opening of no-frills account
+- Any other deficiency in banking service
+
+RESERVE BANK OF INDIA (RBI) INTEGRATED OMBUDSMAN:
+The RBI launched the Integrated Ombudsman in 2021.
+Now covers all RBI regulated entities.
+Website: cms.rbi.org.in | Helpline: 14448
+
+INSURANCE OMBUDSMAN:
+For insurance complaints.
+Website: ecoi.co.in | Helpline: 155255
+
+SEBI (SECURITIES AND EXCHANGE BOARD OF INDIA):
+For complaints about stock brokers, mutual funds, listed companies.
+SCORES portal: scores.gov.in | Helpline: 1800-266-7575
+
+PART 6: CHEQUE BOUNCE (NI ACT SECTION 138)
+============================================
+
+When a cheque is dishonoured due to insufficient funds or for any other
+reason (except signature mismatch or technical defect):
+
+PROCEDURE:
+1. Bank gives you "Cheque Return Memo" with reason
+2. Send LEGAL NOTICE to drawer within 30 days of receiving memo
+3. If no payment within 15 days of notice: FILE COMPLAINT in court
+   within 30 days of expiry of 15-day notice period
+4. Magistrate issues summons
+5. If convicted: Imprisonment up to 2 years OR fine up to twice the cheque amount
+
+LIMITATION: 
+The entire process (notice + complaint) must start within 30 days of 
+dishonour. Don't delay.
+
+CHEQUE RETURN MEMO REASONS:
+"Insufficient funds" — Section 138 NI Act applies — criminal remedy
+"Account closed" — Section 138 applies
+"Payment stopped" — In genuine disputes, civil remedy may be more appropriate
+
+PART 7: INTERNET BANKING AND DIGITAL PAYMENT FRAUD
+====================================================
+
+RBI GUIDELINES ON ZERO LIABILITY:
+If fraud happens WITHOUT your fault (phishing by bank, third party fraud
+without you sharing OTP), you have ZERO LIABILITY — bank MUST reimburse.
+
+IF FRAUD HAPPENED DUE TO YOUR NEGLIGENCE (sharing OTP, clicking phishing links):
+You bear some or full liability.
+
+REPORT WITHIN 3 WORKING DAYS: Zero liability.
+REPORT WITHIN 4-7 DAYS: Limited liability (shared with bank).
+REPORT AFTER 7 DAYS: Bank's policy.
+
+IMMEDIATE ACTION ON UPI/BANKING FRAUD:
+1. Call 1930 (National Cyber Crime Helpline) immediately
+2. Call your bank's 24-hour helpline
+3. Report at cybercrime.gov.in
+4. Lodge complaint with bank in writing
+5. File complaint at Banking Ombudsman if bank doesn't resolve in 30 days

@@ -1,0 +1,220 @@
+CRIMINAL PROCEDURE, ARREST RIGHTS, BAIL AND POLICE ACCOUNTABILITY
+===================================================================
+
+PART 1: YOUR RIGHTS WHEN ARRESTED IN INDIA
+============================================
+
+CONSTITUTIONAL RIGHTS ON ARREST (Article 22):
+1. RIGHT TO KNOW GROUNDS OF ARREST:
+   You MUST be informed of the reasons for your arrest.
+   No one can be arrested without being told why.
+
+2. RIGHT TO CONSULT A LAWYER:
+   You have the right to consult and be defended by a legal practitioner
+   of your choice. Police CANNOT deny this right.
+   If you cannot afford a lawyer — FREE legal aid is available.
+   Call NALSA: 15100
+
+3. RIGHT TO BE PRODUCED BEFORE MAGISTRATE WITHIN 24 HOURS:
+   After arrest, you MUST be produced before the nearest Magistrate
+   within 24 hours of arrest (excluding travel time).
+   If not, the arrest becomes illegal and you can be released.
+
+4. RIGHT AGAINST SELF-INCRIMINATION (Article 20(3)):
+   You cannot be compelled to be a witness against yourself.
+   You do not have to answer questions that may incriminate you.
+   Police CANNOT force confessions.
+
+5. RIGHT AGAINST DOUBLE JEOPARDY (Article 20(2)):
+   You cannot be tried and punished for the same offence twice.
+
+SECTION 50 CrPC / SECTION 47 BNSS — GROUNDS OF ARREST:
+Person arrested must be informed immediately of the reason.
+Person arrested for non-bailable offence must be informed of right to bail.
+
+SECTION 41 CrPC — ARREST WITHOUT WARRANT:
+Police can arrest without warrant only in cognizable offences.
+Even then, must record reasons in writing.
+Supreme Court in Arnesh Kumar vs Bihar (2014): Police should NOT
+automatically arrest — must apply their mind before arresting.
+
+SECTION 50A CrPC — NOTICE TO FAMILY:
+Police must inform a family member or friend of the arrested person
+about the arrest and place of detention.
+
+D.K. BASU vs STATE OF WEST BENGAL (1997) GUIDELINES:
+Supreme Court issued mandatory guidelines for arrest:
+1. Police must bear name tags with designation when making arrests
+2. Memo of arrest must be prepared — witnessed by family member
+3. Arrestee must be informed of right to inform a friend/relative
+4. Must be examined by doctor within 48 hours
+5. All documents must be updated in the police station register
+
+PART 2: BAIL IN INDIA
+======================
+
+TYPES OF OFFENCES:
+1. BAILABLE OFFENCES: Bail is a matter of right.
+   Police can grant bail at the police station itself.
+   
+2. NON-BAILABLE OFFENCES: Bail is at the court's discretion.
+   Must apply to the Magistrate/Sessions Court.
+
+3. NON-BAILABLE AND NON-COMPOUNDABLE OFFENCES (e.g., murder, rape):
+   Stricter conditions for bail.
+   High Court can grant bail under Section 439 CrPC.
+
+SECTION 436 CrPC — BAIL IN BAILABLE OFFENCE:
+When a person is accused of a bailable offence, bail is a right, not
+a privilege. Police and court MUST grant bail on personal bond or surety.
+
+SECTION 437 CrPC — BAIL IN NON-BAILABLE OFFENCE:
+Court may grant bail considering:
+- Nature and gravity of accusation
+- Antecedents of accused
+- Possibility of fleeing from justice
+- Safety of the community
+- Health and age of the accused
+
+SECTION 167(2) CrPC — DEFAULT BAIL (Statutory Bail):
+If police fail to file chargesheet within:
+- 60 days for offences punishable with death, life, or 10+ years imprisonment
+- 90 days for serious offences requiring special investigation
+THEN the accused has a RIGHT to get bail (called Default Bail).
+This is a significant right — courts MUST grant it.
+
+ANTICIPATORY BAIL (Section 438 CrPC):
+A person who apprehends arrest can approach Sessions Court or High Court
+for anticipatory bail BEFORE the arrest.
+If granted, police cannot arrest without court permission.
+
+SURETY:
+Usually, two sureties (people who guarantee you will appear in court)
+are required for bail. For poor persons, courts can accept personal bond.
+
+PART 3: POLICE ACCOUNTABILITY
+================================
+
+SUPREME COURT GUIDELINES IN PRAKASH SINGH vs UNION OF INDIA (2006):
+Landmark case — Supreme Court issued guidelines for police reform:
+1. Fixed tenure for DGP (minimum 2 years)
+2. Separation of law and order from investigation
+3. Police Complaints Authority in each state/district
+4. Police Establishment Board for transfers, promotions
+
+SECTION 154 CrPC — FIRST INFORMATION REPORT (FIR):
+- Police MUST register FIR for cognizable offences — no discretion.
+- FIR must be read to the complainant and copy given FREE of charge.
+- Lalitha Kumari vs Govt. of UP (2013): Supreme Court held — FIR
+  registration is mandatory for cognizable offences. No preliminary
+  inquiry is required before registering FIR.
+
+IF POLICE REFUSE TO REGISTER FIR:
+1. Write to Superintendent of Police (SP)
+2. Go to Judicial Magistrate and file a complaint under Section 156(3) CrPC
+3. File petition in High Court for direction to police to register FIR
+
+SECTION 41A CrPC — NOTICE OF APPEARANCE (instead of arrest):
+Police may issue a notice requiring appearance instead of arrest for
+offences where the accused is not likely to abscond.
+Failure to appear = can then arrest.
+
+COMPLAINTS AGAINST POLICE:
+1. Complaint to Superintendent of Police
+2. Complaint to State Police Complaints Authority
+3. Complaint to State Human Rights Commission
+4. Complaint to National Human Rights Commission: nhrc.nic.in
+5. File Writ Petition in High Court for custodial violence
+6. FIR against police officer for cognizable offences committed by them
+
+CUSTODIAL VIOLENCE AND TORTURE:
+- Section 330 IPC / Section 117 BNS — Voluntarily causing hurt to extort confession: 7 years imprisonment
+- Section 331 IPC / Section 118 BNS — Grievous hurt to extort confession: 10 years imprisonment
+- No fundamental right to torture exists in India
+- India has committed to UN Convention Against Torture (though not ratified yet)
+
+PART 4: SEARCH AND SEIZURE RIGHTS
+===================================
+
+SECTION 100 CrPC — SEARCH OF CLOSED PLACE:
+- Police must have a search warrant (issued by Magistrate) to search a house
+- Search warrant must specify the place and object of search
+- At least 2 independent witnesses must be present during search
+
+WHEN POLICE CAN SEARCH WITHOUT WARRANT (Section 165 CrPC):
+- Cognizable offence
+- Compelling reason
+- No time to get warrant
+- Must record reasons in writing
+- Must send report to Magistrate
+
+YOUR RIGHTS DURING SEARCH:
+- Be present or have a representative present
+- Demand to see the search warrant
+- Witness must be from the same locality
+- All seized items must be listed in a Panchnama (seizure memo)
+- You are entitled to a copy of the Panchnama
+
+PART 5: HABEAS CORPUS AND ILLEGAL DETENTION
+=============================================
+
+WRIT OF HABEAS CORPUS:
+"Produce the body" — If you believe someone is being illegally detained,
+you can file a Habeas Corpus petition directly in the High Court or
+Supreme Court to seek their release.
+
+WHO CAN FILE:
+- The detained person themselves
+- Any person on their behalf (family, friend, NGO)
+- No specific format — even a letter to the High Court is sufficient
+
+WHERE TO FILE:
+- High Court: If detention is by state authority
+- Supreme Court: In most important cases, or if state court is inaccessible
+
+PART 6: CHARGESHEET AND TRIAL RIGHTS
+======================================
+
+CHARGESHEET (SECTION 173 CrPC):
+- After investigation, police file a chargesheet (police report)
+- Must be filed within 60 or 90 days (see default bail section above)
+- Copy of chargesheet must be given to accused
+
+RIGHT TO FAIR TRIAL:
+- Right to know charges against you
+- Right to be represented by lawyer
+- Right to cross-examine prosecution witnesses
+- Right to present defence witnesses
+- Reasonable time to prepare defence
+- Trial in a language you understand (interpreter if needed)
+
+SECTION 207 CrPC — SUPPLY OF DOCUMENTS TO ACCUSED:
+All documents relied upon by prosecution MUST be supplied to accused.
+This includes FIR, witness statements, forensic reports, etc.
+
+PART 7: COGNIZABLE VS NON-COGNIZABLE OFFENCES
+===============================================
+
+COGNIZABLE OFFENCES (Schedule 1 CrPC, Part I):
+- Police CAN arrest without warrant
+- Police CAN investigate without Magistrate's permission
+- Examples: Murder, robbery, dacoity, rape, kidnapping, riot, theft (above threshold)
+
+NON-COGNIZABLE OFFENCES (Schedule 1 CrPC, Part II):
+- Police CANNOT arrest without warrant
+- Police NEED Magistrate's permission to investigate
+- Examples: Assault without grievous hurt, cheating below threshold, defamation
+
+COMPOUNDABLE OFFENCES:
+Offences where victim and accused can compromise and the case can be settled.
+Section 320 CrPC lists compoundable offences.
+Non-compoundable offences (like murder) CANNOT be settled privately.
+
+PART 8: PLEA BARGAINING (SECTION 265A-265L CrPC)
+=================================================
+
+- Available for offences with punishment up to 7 years
+- NOT available for: Offences against women and children, socio-economic offences
+- Accused can approach the Magistrate to negotiate a reduced sentence
+- Must be voluntary — no coercion from police or court
+- Once plea bargain is accepted, no appeal on the same grounds

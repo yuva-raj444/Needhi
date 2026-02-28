@@ -1,0 +1,125 @@
+BHARATIYA SAKSHYA ADHINIYAM, 2023 (BSA) — NEW INDIAN EVIDENCE ACT
+(Replaced the Indian Evidence Act, 1872 w.e.f. 1st July 2024)
+
+CHAPTER I — PRELIMINARY
+
+SECTION 1 — SHORT TITLE AND COMMENCEMENT
+This Act may be called the Bharatiya Sakshya Adhiniyam, 2023.
+
+SECTION 2 — DEFINITIONS
+(1) "Court" includes all Judges and Magistrates, and all persons legally authorized to take evidence.
+(2) "Document" means any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, and includes electronic and digital records.
+(3) "Electronic record" shall have the meaning assigned to it in section 2(t) of the Information Technology Act, 2000.
+(4) "Evidence" means and includes:
+   (a) all statements which the court permits or requires to be made before it by witnesses (oral evidence);
+   (b) all documents including electronic or digital records produced for the inspection of the court (documentary evidence).
+
+CHAPTER II — OF THE RELEVANCY OF FACTS
+
+SECTION 5 — EVIDENCE MAY BE GIVEN OF FACTS IN ISSUE AND RELEVANT FACTS
+Evidence may be given only of facts in issue and relevant facts.
+
+SECTION 6 — RELEVANCY OF FACTS FORMING PART OF SAME TRANSACTION (RES GESTAE)
+Facts which are part of the same transaction are relevant, whether they occurred at the same time and place or at different times and places.
+
+SECTION 19 — ADMISSIONS
+An admission is a statement, oral or documentary or contained in electronic form, which suggests any inference as to any fact in issue or relevant fact.
+
+SECTION 22 — CONFESSION
+A confession is an admission made at any time by a person accused of an offence, stating or suggesting the inference that he committed that offence.
+
+SECTION 23 — CONFESSION TO POLICE OFFICER NOT TO BE PROVED
+No confession made to a police officer shall be proved as against a person accused of any offence.
+
+SECTION 24 — CONFESSION CAUSED BY INDUCEMENT, THREAT OR PROMISE
+A confession is irrelevant if it appears to have been caused by any inducement, threat, or promise.
+
+CHAPTER III — ELECTRONIC AND DIGITAL RECORDS (Significantly expanded in BSA 2023)
+
+SECTION 57 — ADMISSIBILITY OF ELECTRONIC OR DIGITAL RECORDS
+The contents of electronic records may be proved in accordance with the provisions of Section 63.
+
+SECTION 63 — ADMISSIBILITY OF ELECTRONIC RECORDS
+(1) Any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media produced by a computer or any communication device or otherwise stored, recorded or copied in any electronic form shall be deemed to be a document and shall be admissible as evidence without further proof or production of the original.
+(2) The conditions for admissibility are:
+   (a) the electronic record was produced during the regular course of activities;
+   (b) the information was regularly fed into the computer in the ordinary course;
+   (c) the computer was operating properly;
+   (d) the electronic record reproduces or is derived from the information fed into the computer.
+(3) A certificate by a person who manages the system or is responsible for its operation shall be evidence of the conditions above.
+
+TYPES OF ELECTRONIC EVIDENCE ADMISSIBLE:
+1. Emails and electronic messages
+2. Server logs and computer printouts
+3. Documents on CDs, pen drives, hard disks
+4. Telephone records and call data records
+5. CCTV footage and digital photographs
+6. Website content and social media posts
+7. WhatsApp messages, text messages, voice notes
+8. GPS and location data
+9. Digital transaction records (UPI, bank transfers)
+10. Cloud-stored documents and data
+11. Smart device data (phones, watches, IoT devices)
+
+SECTION 39 — ELECTRONIC OR DIGITAL RECORD AS PRIMARY EVIDENCE (NEW)
+Electronic records stored in a device are primary evidence. This is a major change — earlier electronic records were only secondary evidence.
+
+CHAPTER IV — OF ORAL EVIDENCE
+
+SECTION 118 — WHO MAY TESTIFY
+All persons shall be competent to testify unless the court considers that they are prevented from understanding the questions put to them, or from giving rational answers, by tender years, extreme old age, disease of body or mind.
+
+SECTION 119 — DUMB WITNESSES
+A witness who is unable to speak may give evidence in any manner that makes it intelligible, such as writing or sign language.
+
+SECTION 120 — EVIDENCE OF ACCUSED PERSON
+An accused person is a competent witness for the defence and may give evidence on his own behalf.
+
+SECTION 122 — COMMUNICATION DURING MARRIAGE
+No person who is or has been married shall be compelled to disclose any communication made during marriage.
+
+SECTION 123 — EVIDENCE OF ACCOMPLICE
+An accomplice shall be a competent witness against an accused person, and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice.
+
+CHAPTER V — BURDEN OF PROOF
+
+SECTION 104 — BURDEN OF PROOF
+Whoever desires any court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist. The burden of proof lies on the person who asserts.
+
+SECTION 105 — ON WHOM BURDEN OF PROOF LIES
+The burden of proof in a suit or proceeding lies on the person who would fail if no evidence at all were given on either side.
+
+SECTION 106 — BURDEN OF PROVING PARTICULAR FACT
+When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him.
+
+SECTION 108 — BURDEN OF PROVING THAT CASE FALLS WITHIN EXCEPTIONS
+When a person is accused of any offence, the burden of proving the existence of circumstances bringing the case within any of the General Exceptions is upon the accused.
+
+SECTION 110 — PRESUMPTION AS TO DOWRY DEATH
+When a woman dies within seven years of marriage and there is evidence of cruelty or harassment in connection with dowry, the court shall presume that such death was caused by the husband or his relative.
+
+CHAPTER VI — PRESUMPTIONS
+
+SECTION 79 — PRESUMPTION AS TO GENUINENESS OF CERTIFIED COPIES
+The court shall presume every document purporting to be a certified copy to be genuine.
+
+SECTION 81 — PRESUMPTION AS TO ELECTRONIC RECORDS
+The court may presume that an electronic record which is five years old was in the custody of the person who would naturally have it.
+
+SECTION 85A — PRESUMPTION AS TO ELECTRONIC AGREEMENTS
+The court shall presume that every electronic record purporting to be an agreement was made by the parties and the electronic signatures are genuine.
+
+SECTION 85B — PRESUMPTION AS TO ELECTRONIC RECORDS AND DIGITAL SIGNATURES
+In any proceedings involving a secure electronic record, the court shall presume that the secure electronic record has not been altered since the specific point of time to which the secure status relates.
+
+SECTION 85C — PRESUMPTION AS TO DIGITAL SIGNATURE CERTIFICATES
+The court shall presume that the information listed in a Digital Signature Certificate is correct.
+
+KEY NEW FEATURES IN BSA 2023:
+1. Electronic records are now PRIMARY evidence (not secondary)
+2. Broader definition of "document" to include digital and electronic records
+3. Specific sections for admissibility of social media evidence, emails, messages
+4. Certificates for electronic evidence are more clearly defined
+5. Joint trials for offences committed through electronic means
+6. Expert evidence on electronic devices and digital forensics
+7. Expanded definition of "fact" to include electronic and digital information

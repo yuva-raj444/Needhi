@@ -1,0 +1,251 @@
+HEALTHCARE, MEDICAL LAWS AND PATIENT RIGHTS IN INDIA
+=====================================================
+
+PART 1: PATIENT RIGHTS IN INDIA
+================================
+
+Every patient in India has the following rights:
+
+1. RIGHT TO INFORMATION:
+Patients have the right to know their diagnosis, treatment options, risks,
+prognosis, and alternatives. Doctors must explain in simple language.
+
+2. RIGHT TO INFORMED CONSENT:
+No medical procedure, surgery, or treatment can be done without the patient's
+free and informed consent. Exceptions: Life-threatening emergencies.
+(Landmark case: Samira Kohli vs Dr Prabha Manchanda, Supreme Court 2008)
+
+3. RIGHT TO CONFIDENTIALITY:
+Medical records and information are confidential. Cannot be disclosed without
+patient's consent (except in cases of communicable diseases or court order).
+
+4. RIGHT TO SECOND OPINION:
+Every patient has the right to seek a second medical opinion from another doctor.
+
+5. RIGHT TO MEDICAL RECORDS:
+Patients have the right to obtain copies of their medical records, prescriptions,
+and investigation reports. Hospitals cannot deny this. You can also use RTI Act.
+
+6. RIGHT TO EMERGENCY TREATMENT:
+Under Supreme Court guidelines (Parmanand Katara vs Union of India, 1989),
+ALL hospitals (private or government) MUST provide emergency treatment
+regardless of ability to pay. Refusal is a criminal offence.
+
+7. RIGHT AGAINST MEDICAL NEGLIGENCE:
+Patients harmed due to doctor/hospital negligence can:
+- File complaint in Consumer Forum (Medical service = Consumer service)
+- File complaint with Medical Council of India or State Medical Council
+- File criminal case under IPC Section 304A (death by negligence)
+- File civil suit for damages
+
+PART 2: MEDICAL NEGLIGENCE
+============================
+
+WHAT IS MEDICAL NEGLIGENCE?
+Medical negligence means a failure to provide the standard of care that a
+reasonably competent medical professional would provide in similar circumstances.
+
+THREE ELEMENTS (as per Bolam Test adopted by Indian Courts):
+1. A duty of care existed
+2. There was a breach of that duty
+3. The breach caused the patient's injury/death
+
+LANDMARK CASE: V. Krishan Rao vs Nikhil Super Speciality Hospital (2010):
+Supreme Court held that doctors and hospitals providing medical services are
+"service providers" under Consumer Protection Act and can be sued for deficiency.
+
+IMPORTANT: Jacob Mathew vs State of Punjab (2005):
+Supreme Court held that mere error of judgment is NOT negligence. There must be
+a clear departure from accepted standards.
+
+IPC SECTION 304A: Death by negligence
+Whoever causes death by a rash or negligent act not amounting to culpable
+homicide shall be punished with imprisonment for 2 years or fine or both.
+
+COMPENSATION IN MEDICAL NEGLIGENCE CASES:
+Factors considered:
+- Nature and extent of injury
+- Age of the patient
+- Loss of income/earning capacity
+- Cost of further medical treatment
+- Mental agony and suffering
+
+HOW TO FILE MEDICAL NEGLIGENCE COMPLAINT:
+1. Consumer Forum: File complaint under Consumer Protection Act 2019
+   - District Forum: Claims up to Rs. 1 crore
+   - State Commission: Claims Rs. 1 crore to Rs. 10 crore
+   - National Commission: Claims above Rs. 10 crore
+2. Medical Council: Complaint against specific doctor's registration
+   - National Medical Commission (NMC): www.nmc.org.in
+   - State Medical Councils
+3. Police: FIR under IPC Section 304A for negligent death
+4. High Court: Writ petition for violations of fundamental rights in government hospitals
+
+PART 3: PRE-CONCEPTION AND PRE-NATAL DIAGNOSTIC TECHNIQUES ACT (PCPNDT), 1994
+===============================================================================
+
+PURPOSE: To prevent sex determination and sex-selective abortions.
+
+WHAT IS PROHIBITED:
+- Conducting ultrasound or any test to determine sex of foetus
+- Telling parents the sex of the foetus
+- Advertising sex determination services
+- Conducting genetic counselling for sex selection
+
+PUNISHMENT:
+- First offence: Imprisonment up to 3 years + Fine up to Rs. 10,000
+- Subsequent offence: Imprisonment up to 5 years + Fine up to Rs. 50,000
+- Cancellation of licence of clinic/doctor
+
+HOW TO REPORT PCPNDT VIOLATION:
+- Call the PCPNDT helpline of your district
+- Complaint to District Appropriate Authority (usually Chief Medical Officer)
+- Complaint to State Supervisory Board
+- File police FIR
+
+PART 4: MENTAL HEALTHCARE ACT, 2017
+=====================================
+
+RIGHTS OF PERSONS WITH MENTAL ILLNESS:
+
+1. RIGHT TO ACCESS MENTAL HEALTHCARE:
+Every person has the right to access mental healthcare from government facilities.
+Government must provide mental health services.
+
+2. RIGHT AGAINST DISCRIMINATION:
+No discrimination on grounds of mental illness in employment, education, housing.
+
+3. RIGHT TO CONFIDENTIALITY:
+Medical records of mental illness are strictly confidential.
+
+4. RIGHT TO LEGAL AID:
+Free legal aid must be provided to persons with mental illness.
+
+5. NO SOLITARY CONFINEMENT:
+Persons with mental illness cannot be kept in solitary confinement or chained.
+
+6. ADVANCE DIRECTIVE:
+A person can make advance decisions about future treatment in case they lose
+capacity to decide.
+
+7. RIGHT TO COMMUNITY LIVING:
+Persons with mental illness have the right to live in the community, not just
+in mental hospitals.
+
+PROHIBITED PRACTICES:
+- Electroconvulsive therapy (ECT) without consent
+- Chaining of mentally ill persons
+- Using unmodified ECT
+- Treating minor with ECT
+
+CENTRAL MENTAL HEALTH AUTHORITY: www.mohfw.gov.in
+
+PART 5: RIGHTS OF PERSONS WITH DISABILITIES (RPWD ACT, 2016)
+==============================================================
+
+TYPES OF DISABILITIES RECOGNISED (21 categories):
+Blindness, low vision, leprosy cured, hearing impairment, locomotor disability,
+dwarfism, intellectual disability, mental illness, autism spectrum disorder,
+cerebral palsy, muscular dystrophy, chronic neurological conditions,
+specific learning disabilities, multiple sclerosis, speech and language
+disability, thalassemia, haemophilia, sickle cell disease, deaf-blindness,
+acid attack victims, Parkinson's disease.
+
+RIGHTS UNDER RPWD ACT 2016:
+
+1. RESERVATION:
+- 4% reservation in government jobs
+- 5% reservation in higher educational institutions
+- Persons with benchmark disability (40% or more) get reservation benefits
+
+2. RIGHT TO EDUCATION:
+- Free education from 6-18 years
+- Accessible infrastructure in all educational institutions
+- Special educators, scribes, extra time in examinations
+
+3. RIGHT TO EMPLOYMENT:
+- 4% reservation in government jobs
+- No discrimination in private sector
+- Reasonable accommodation must be provided by employers
+
+4. DISABILITY CERTIFICATE:
+Issued by Chief Medical Officer. Required to avail all benefits.
+Benchmark disability = 40% or more disability.
+
+5. ACCESSIBILITY:
+All public buildings, transport, government websites must be accessible.
+New buildings must be built according to accessibility standards.
+
+6. LEGAL CAPACITY:
+Persons with disabilities have legal capacity equal to others.
+Limited guardianship (not plenary guardianship) may be appointed.
+
+7. PUNISHMENTS FOR VIOLATIONS:
+- Discrimination: Fine up to Rs. 10,000 (first offence), Rs. 50,000 - Rs. 5 lakh (subsequent)
+- Violation of provisions: Imprisonment up to 6 months or fine up to Rs. 5 lakh or both
+
+GRIEVANCE REDRESSAL:
+- Complaint to State Commissioner for Persons with Disabilities
+- Complaint to Chief Commissioner for Persons with Disabilities
+  Website: ccdisabilities.nic.in | Helpline: 011-24369061
+
+PART 6: FOOD SAFETY AND STANDARDS ACT (FSSAI), 2006
+=====================================================
+
+FOOD SAFETY AND STANDARDS AUTHORITY OF INDIA (FSSAI):
+Website: www.fssai.gov.in | Helpline: 1800-112-100
+
+WHAT IS REGULATED:
+- Quality and safety standards for all food products
+- Food additives, contaminants, pesticide residues
+- Labelling requirements
+- Hygiene and sanitary conditions for food businesses
+
+YOUR RIGHTS AS A CONSUMER OF FOOD:
+1. Right to safe food — free from harmful substances
+2. Right to accurate labelling — ingredients, nutritional info, expiry date
+3. Right to quality standards — food must meet prescribed standards
+
+COMMON VIOLATIONS AND COMPLAINTS:
+- Selling adulterated food
+- Selling food past expiry date
+- Incorrect labelling
+- Unhygienic food preparation
+
+HOW TO COMPLAIN:
+1. FSSAI Helpline: 1800-112-100
+2. Online: foodsafety.gov.in
+3. Consumer Helpline: 1800-11-4000
+4. Local Food Safety Officer (appointed in every district)
+5. Consumer Forum under Consumer Protection Act 2019
+
+PUNISHMENT FOR FOOD ADULTERATION:
+- Substandard food: Fine up to Rs. 5 lakh
+- Misbranded food: Fine up to Rs. 3 lakh
+- Food with extraneous matter: Fine up to Rs. 1 lakh
+- Unsafe food: Imprisonment up to 6 months + fine up to Rs. 3 lakh
+- Selling food in unsanitary conditions: Imprisonment up to 2 years + fine
+- Adulteration causing death: Life imprisonment
+
+PART 7: TRANSPLANTATION OF HUMAN ORGANS ACT, 1994
+===================================================
+
+ORGAN DONATION IN INDIA:
+
+BRAIN DEATH: When a person is declared brain dead (by a team of doctors including
+a neurologist), organs can be donated with family consent.
+
+WHO CAN DONATE:
+- Living donors: Close relatives (spouse, parents, siblings, children, grandparents)
+- Deceased donors: After brain death with family consent
+- Any person can pledge organ donation: Register at www.notto.gov.in
+
+NOTTO: National Organ and Tissue Transplant Organisation
+Toll Free: 1800-103-7100
+
+WHAT IS PROHIBITED:
+- Commercial dealing in human organs — punishable with 3-7 years imprisonment
+- Transplanting organs without authority — punishable
+
+HOW TO PLEDGE ORGAN DONATION:
+Register at: www.notto.gov.in and carry your donor card.

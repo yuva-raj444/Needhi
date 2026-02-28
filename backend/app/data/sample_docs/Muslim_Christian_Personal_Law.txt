@@ -1,0 +1,119 @@
+MUSLIM PERSONAL LAW — MARRIAGE, DIVORCE, MAINTENANCE AND SUCCESSION
+
+MUSLIM MARRIAGE (NIKAH)
+
+ESSENTIALS OF A VALID MUSLIM MARRIAGE:
+1. PROPOSAL AND ACCEPTANCE (Ijab and Qabul): Must be in one sitting, in the presence of at least two male witnesses (or one male and two female witnesses, Hanafi school).
+2. FREE CONSENT: Both parties must give free consent. Marriage without consent is void.
+3. COMPETENCE: Both parties must be of sound mind and have attained puberty. Minor marriages contracted by guardians (wali) can be repudiated on attaining puberty (option of puberty/khyar-ul-bulugh).
+4. MAHR (DOWER): The husband is obligated to pay mahr to the wife. It can be prompt (muajjal, payable on demand) or deferred (muwajjal, payable on dissolution of marriage or death).
+5. NO PROHIBITED RELATIONSHIP: Marriage between persons within prohibited degrees (blood relationship, affinity, fosterage) is void.
+
+TYPES OF MUSLIM MARRIAGE:
+1. SAHIH (Valid) — All conditions fulfilled
+2. BATIL (Void) — Fundamental condition violated, no legal effect
+3. FASID (Irregular) — Procedural defect, can be regularized
+
+POLYGAMY: A Muslim male may marry up to four wives at a time. However, this is subject to the condition of equal treatment of all wives.
+
+DISSOLUTION OF MUSLIM MARRIAGE:
+
+1. TALAQ (BY HUSBAND):
+   (a) Talaq-e-Ahsan: Single pronouncement of talaq during tuhr (period of purity), followed by abstinence during the entire iddat period (3 menstrual cycles). Revocable during iddat.
+   (b) Talaq-e-Hasan: Three pronouncements during three successive tuhrs. First two are revocable; third makes it irrevocable.
+   (c) Triple Talaq (Talaq-e-Biddat): BANNED in India by the Muslim Women (Protection of Rights on Marriage) Act, 2019 following the Shayara Bano Supreme Court judgment (2017). Pronouncing triple talaq is now a criminal offence punishable with imprisonment up to three years.
+
+2. KHULA (BY WIFE): Wife may seek divorce with the consent of the husband, usually by returning the mahr or giving consideration.
+
+3. MUBARAT (MUTUAL): Both husband and wife mutually agree to dissolve the marriage.
+
+4. DISSOLUTION OF MUSLIM MARRIAGES ACT, 1939:
+A Muslim wife may obtain a decree of dissolution on the following grounds:
+   (i) Whereabouts of husband not known for 4 years
+   (ii) Husband has failed to maintain her for 2 years
+   (iii) Husband has been sentenced to imprisonment for 7+ years
+   (iv) Husband has failed to perform marital obligations for 3 years
+   (v) Husband was impotent at the time of marriage
+   (vi) Husband has been insane for 2 years or suffers from leprosy or venereal disease
+   (vii) Wife was married before age 15 and repudiates the marriage before age 18
+   (viii) Husband treats her with cruelty
+
+MUSLIM WOMEN (PROTECTION OF RIGHTS ON MARRIAGE) ACT, 2019:
+Section 3: Any pronouncement of talaq by a Muslim husband upon his wife, by words, either spoken or written or in electronic form or in any other manner whatsoever, shall be void and illegal.
+Section 4: Any Muslim husband who pronounces talaq shall be punished with imprisonment for a term which may extend to three years, and shall also be liable to fine.
+Section 5: A Muslim woman upon whom talaq is pronounced shall be entitled to receive from her husband such amount of subsistence allowance for her and dependent children as may be determined by the Magistrate.
+Section 7: The offence under Section 4 shall be cognizable if information is given by the married Muslim woman, or any person related to her by blood or marriage.
+
+IDDAT (WAITING PERIOD):
+1. After talaq: 3 menstrual cycles (or 3 months if post-menopausal)
+2. After death of husband: 4 months and 10 days
+3. If pregnant: Until delivery
+Purpose: To determine paternity of any child and allow reconciliation
+
+MAHR (DOWER):
+1. PROMPT MAHR: Payable on demand by the wife at any time during or after marriage
+2. DEFERRED MAHR: Payable on dissolution of marriage or death of husband
+3. If no mahr is fixed, the wife is entitled to PROPER MAHR (Mahr-e-Misl) based on her status, beauty, wealth, etc.
+4. Wife has the right to refuse cohabitation until prompt mahr is paid
+5. Mahr is a debt on the husband's estate — it must be paid before distribution of inheritance
+
+MAINTENANCE:
+1. During marriage: Husband is obligated to maintain wife
+2. During iddat: Husband must maintain wife
+3. After iddat: Under Section 125 CrPC (now BNSS), Muslim women can also claim maintenance from husband
+4. Shah Bano case (1985) and Daniel Latifi case (2001): Supreme Court held that Muslim women are entitled to maintenance under Section 125 CrPC
+5. Muslim Women (Protection of Rights on Divorce) Act, 1986: A reasonable and fair provision of maintenance must be made within the iddat period
+
+MUSLIM SUCCESSION LAW:
+
+The Quran specifies fixed shares for heirs. Key rules:
+1. SHARERS: Those who get a fixed share (sons, daughters, husband, wife, father, mother, etc.)
+2. RESIDUARIES: Those who take the remaining property after sharers have taken their share
+3. DISTANT KINDRED: Those who are neither sharers nor residuaries
+
+KEY SHARES:
+- HUSBAND: Gets 1/4 if there are children; 1/2 if no children
+- WIFE: Gets 1/8 if there are children; 1/4 if no children
+- DAUGHTER: Gets 1/2 if she is the only child; 2/3 if two or more daughters and no son
+- SON: Gets double the share of a daughter when both exist
+- FATHER: Gets 1/6 when there is a son
+- MOTHER: Gets 1/6 when there are children; 1/3 when there are no children
+
+IMPORTANT PRINCIPLES:
+1. A Muslim can bequeath by will (wasiyat) only up to 1/3 of the property. Beyond 1/3 requires consent of heirs.
+2. An heir cannot be bequeathed to (unless other heirs consent)
+3. Unborn persons cannot inherit
+4. Murderer of the deceased cannot inherit
+5. Convert from Islam cannot inherit from a Muslim relative
+
+---
+
+CHRISTIAN MARRIAGE AND DIVORCE
+
+INDIAN CHRISTIAN MARRIAGE ACT, 1872:
+- Applies to Christians marrying in India
+- Marriage must be solemnized by a Minister of Religion or Marriage Registrar
+- Notice of 14 days required before marriage
+- Two witnesses must be present
+- Minimum age: 21 for male, 18 for female
+
+INDIAN DIVORCE ACT, 1869:
+Grounds for divorce:
+(a) Adultery
+(b) Conversion to another religion
+(c) Unsound mind for 2+ years
+(d) Suffering from leprosy for 2+ years
+(e) Venereal disease in communicable form
+(f) Not heard alive for 7 years
+(g) Refusal to consummate marriage
+(h) Cruelty
+(i) Desertion for 2+ years
+
+Section 10A — Divorce by mutual consent (same as Hindu Marriage Act)
+Section 36-38 — Alimony provisions
+
+INDIAN SUCCESSION ACT, 1925 (for Christians):
+- Applies to intestate succession of Indian Christians
+- Section 33: If a person dies leaving a widow but no lineal descendants, widow gets 1/2 and remainder to kindred
+- Section 33A: If dies leaving widow and lineal descendants, widow gets 1/3 and remainder to descendants
+- Both sons and daughters inherit equally

@@ -1,0 +1,209 @@
+SURROGACY, ASSISTED REPRODUCTIVE TECHNOLOGY AND ADOPTION LAWS IN INDIA
+======================================================================
+
+PART 1: SURROGACY (REGULATION) ACT, 2021
+==========================================
+
+PURPOSE:
+To regulate surrogacy clinics and prevent commercial exploitation of surrogates.
+
+WHAT IS ALLOWED (ALTRUISTIC SURROGACY ONLY):
+- Only ALTRUISTIC (non-commercial) surrogacy is allowed.
+- The surrogate must be a close relative (though "close relative" definition 
+  has been contested and the law has evolved through court orders).
+
+COMMERCIAL SURROGACY:
+COMPLETELY BANNED in India since the Surrogacy Act 2021.
+No payment beyond reasonable medical expenses and insurance to surrogate.
+
+WHO CAN COMMISSION SURROGACY:
+1. Married Indian couple:
+   - Wife must be between 23-50 years
+   - Husband must be between 26-55 years
+   - They must have a genuine medical need (infertility, medical condition)
+   - Must have been married for at least 5 years
+2. Intending widow or divorcee woman:
+   - Between 35-45 years
+
+WHO CANNOT:
+- Unmarried men
+- Same-sex couples (currently not eligible)
+- Foreigners (foreign nationals, OCI, NRIs not eligible for surrogacy in India)
+
+ELIGIBILITY OF SURROGATE MOTHER:
+- Must be a close relative of the intending couple/woman
+- Must be a married woman with at least one living child of her own
+- 25 to 35 years of age
+- Can only be a surrogate ONCE in her lifetime
+- Must be medically and psychologically fit
+- Must not provide her own gametes (eggs) for surrogacy
+
+SURROGACY CLINICS:
+- Must be registered with the appropriate authority (National/State Board)
+- National Surrogacy Board is the apex body
+- State Surrogacy Boards in each state
+
+RIGHTS OF SURROGATE MOTHER:
+- Right to withdraw consent at any time before embryo implantation
+- All medical expenses paid by intending couple
+- Insurance for surrogacy-related health complications
+- Right to receive prescribed information about health risks
+
+PARENTAGE:
+- Child born through surrogacy is deemed the biological child of intending couple
+- All rights of legitimate child apply
+
+REGISTRATION OF CHILD:
+- Birth certificate in name of intending parents
+- No requirement to disclose surrogate mother's identity on certificate
+
+PART 2: ASSISTED REPRODUCTIVE TECHNOLOGY (ART) ACT, 2021
+==========================================================
+
+ART INCLUDES:
+In vitro fertilisation (IVF), intrauterine insemination (IUI), sperm/egg
+donation, embryo storage, and other related techniques.
+
+ART CLINICS:
+- Must be registered with National ART Authority
+- Cannot practice without registration
+- Must maintain detailed records
+- Cannot determine sex of embryo/foetus (PCPNDT Act applies)
+
+GAMETE DONATION:
+- Sperm donors: 21-55 years old
+- Oocyte (egg) donors: 23-35 years old
+- Each donor can donate to only one couple
+- Donor identity is confidential
+- Donor has no parental rights over child born
+
+NATIONAL ART AUTHORITY:
+Apex body for regulation of ART clinics and banks.
+State ART Authorities in each state.
+
+PART 3: ADOPTION LAWS IN INDIA
+================================
+
+JUVENILE JUSTICE (CARE AND PROTECTION OF CHILDREN) ACT, 2015:
+Governs adoption for all communities (secular law).
+Regulation 2022 and Guidelines govern the process.
+
+CARA (CENTRAL ADOPTION RESOURCE AUTHORITY):
+Government body managing all adoptions.
+Website: cara.nic.in | Helpline: 011-23388750 or 1098 (Childline)
+
+WHO CAN ADOPT:
+
+1. SINGLE APPLICANTS:
+   - Single male can adopt only male child
+   - Single female can adopt child of either gender
+   - Single person must be at least 25 years old
+   - Age difference between parent and child should be minimum 25 years
+   
+2. MARRIED COUPLES:
+   - Must be married for at least 2 years
+   - At least one parent should be below 55 years of age
+   - Combined age for infant (0-4): Under 90 years
+   - Combined age for older child (4-8): Under 100 years
+   - Combined age for older child (8+): Under 110 years
+
+3. FOSTER PARENTS:
+   - Special Needs Adoption Program for children with special needs
+   - Specific criteria for foster parents
+
+WHO CANNOT ADOPT:
+- Person with chronic, contagious, fatal, or life-threatening illness
+- Person with criminal record
+- Couple living in a "live-in" relationship (not married)
+- NRIs and foreign nationals must go through specific international adoption process
+
+PROCESS OF ADOPTION (DOMESTIC):
+1. Register on CARA portal: cara.nic.in
+2. Upload documents (income, health certificate, police clearance, home study)
+3. Home Study by Social Worker
+4. Wait for matching — depends on age/gender preference and number of waiting children
+5. Pre-Adoption Fostering — child placed with prospective family for trial
+6. Court Order — adoption is legalized by district court
+7. Post-Adoption Follow-up — social worker visits for 2 years
+
+INTER-COUNTRY ADOPTION:
+Indians living abroad (NRIs) and foreign nationals can adopt Indian children.
+Must follow Hague Convention guidelines.
+More complex and slower process than domestic adoption.
+
+HINDU ADOPTION AND MAINTENANCE ACT, 1956:
+Applies to Hindus, Buddhists, Sikhs, and Jains.
+Allows private adoption within the community.
+BUT: CARA process is now mandatory for all adoptions involving children
+from childcare institutions. Private adoption outside CARA has limitations.
+
+RIGHTS OF ADOPTED CHILD:
+- Full rights of a natural child after adoption order
+- Right to inheritance
+- Right to education
+- Name change (optional)
+- Cannot be given in adoption again or abandoned
+
+PART 4: PREGNANCY TERMINATION LAWS
+=====================================
+
+MEDICAL TERMINATION OF PREGNANCY ACT, 1971 (AMENDED 2021):
+Governs conditions under which abortion (MTP) is legal in India.
+
+WHEN ABORTION IS LEGAL:
+
+UP TO 20 WEEKS: One doctor's opinion required.
+Allowed when:
+- Continuance of pregnancy would involve risk to life or physical/mental health
+- Substantial risk of serious physical or mental abnormality in child
+- Pregnancy resulting from contraceptive failure (for any woman, not just married)
+- Rape or sexual assault (covered under mental health provision)
+
+20-24 WEEKS: Two doctors' opinions required.
+Available only for specific categories:
+- Survivors of sexual violence/rape
+- Minors
+- Change in marital status (widowhood, divorce)
+- Women with physical disabilities
+- Mental illness
+- Multi-fetal pregnancy
+- Foetal malformation
+
+BEYOND 24 WEEKS:
+Only with Medical Board approval (constituted in each district hospital).
+Only for foetal abnormalities incompatible with life or causing serious risk to mother.
+
+CONFIDENTIALITY:
+Medical practitioners cannot disclose the identity of a woman who seeks MTP.
+Strict confidentiality requirements.
+
+UNMARRIED WOMEN:
+After 2021 amendment, contraceptive failure provision now applies to
+ALL women (married or unmarried), not just married women.
+This was a significant reform — recognizes reproductive rights of all women.
+
+MINOR GIRL (BELOW 18):
+Written consent of guardian is required.
+Doctor must follow provisions carefully, as it may also involve POCSO reporting
+requirements in cases of rape.
+
+PART 5: WOMEN'S REPRODUCTIVE RIGHTS IN INDIA
+=============================================
+
+Key principles recognised by Indian courts:
+
+1. REPRODUCTIVE AUTONOMY: A woman has the right to choose whether or not to
+   bear children. (X vs Principal Secretary, Health and Family Welfare, Delhi HC, 2022)
+
+2. BODILY INTEGRITY: No one can force a woman to continue or terminate a pregnancy.
+   Forced sterilisation is a human rights violation.
+
+3. CONTRACEPTION ACCESS: Right to access contraception is part of right to health.
+
+4. SPACING OF CHILDREN: Government's two-child policy cannot be imposed through
+   denial of benefits (Supreme Court cases on this).
+
+FORCED STERILISATION:
+National Human Rights Commission has taken cases against forced sterilisations.
+Forced sterilisation violates Article 21 (Right to Life and Dignity).
+Any doctor who performs sterilisation without consent faces criminal liability.

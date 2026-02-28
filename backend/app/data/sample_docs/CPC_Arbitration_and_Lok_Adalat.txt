@@ -1,0 +1,147 @@
+CODE OF CIVIL PROCEDURE, 1908 (CPC) — KEY PROVISIONS
+
+SECTION 9 — COURTS TO TRY ALL CIVIL SUITS UNLESS BARRED
+The Courts shall have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.
+
+SECTION 10 — STAY OF SUIT (RES SUB JUDICE)
+No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties.
+
+SECTION 11 — RES JUDICATA
+No Court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties and decided by a Court competent to try such subsequent suit.
+
+SECTION 12 — BAR ON SECOND SUIT ON SAME CAUSE OF ACTION
+Where a plaintiff is precluded by rules from instituting a further suit in respect of any particular cause of action, he shall not be entitled to institute a suit in respect of such cause of action in any Court.
+
+ORDER I — PARTIES TO SUITS
+Rule 1: All persons may be joined in one suit as plaintiffs where the right to relief arises from the same act or transaction or series of acts or transactions.
+Rule 10: The Court may add or strike out parties at any stage of the proceedings.
+
+ORDER V — ISSUE AND SERVICE OF SUMMONS
+The Court shall issue summons upon the defendant, allowing 30 days for appearance.
+
+ORDER VI — PLEADINGS GENERALLY
+Pleadings shall contain a statement of material facts. Particulars with dates and items shall be given.
+Written Statement must be filed within 30 days (extendable to 90 days).
+
+ORDER VII — PLAINT
+Rule 10: Return of plaint for filing in proper court (if filed in wrong jurisdiction).
+Rule 11: Rejection of plaint — The plaint shall be rejected where:
+(a) it does not disclose a cause of action;
+(b) the relief claimed is undervalued;
+(c) insufficient stamp;
+(d) the suit is barred by law.
+
+ORDER IX — APPEARANCE OF PARTIES AND CONSEQUENCE OF NON-APPEARANCE
+Rule 9: If defendant fails to appear, the Court may proceed ex parte.
+Rule 13: Setting aside decree passed ex parte — if defendant satisfies the Court that summons was not duly served or he was prevented by sufficient cause from appearing.
+
+ORDER XXXVII — SUMMARY SUIT
+For suits on bills of exchange, hundies, promissory notes, or where the plaintiff seeks to recover a debt or liquidated demand. The defendant must apply for leave to defend.
+
+ORDER XXXIX — TEMPORARY INJUNCTIONS AND INTERLOCUTORY ORDERS
+Rule 1: Where the defendant threatens to dispose of or remove property, the Court may grant a temporary injunction.
+Rule 2: Where the defendant threatens to do an act in relation to property, the Court may restrain the defendant.
+
+For granting an injunction, three conditions must be satisfied:
+1. Prima facie case
+2. Balance of convenience in favour of the applicant
+3. Irreparable injury would be caused if injunction is not granted
+
+SECTION 80 — NOTICE BEFORE SUIT AGAINST GOVERNMENT
+No suit shall be instituted against the Government until the expiration of two months after a notice in writing has been delivered to the appropriate government officer.
+
+SECTION 89 — SETTLEMENT OF DISPUTES OUTSIDE THE COURT
+Where it appears to the Court that there exist elements of a settlement which may be acceptable to the parties, the Court may refer the matter to:
+(a) Arbitration
+(b) Conciliation
+(c) Judicial settlement including settlement through Lok Adalat
+(d) Mediation
+
+SECTION 96 — APPEAL FROM ORIGINAL DECREE
+Every appeal shall be heard on the evidence recorded and the documents produced in the Court of first instance.
+
+SECTION 100 — SECOND APPEAL
+Only on a substantial question of law. No second appeal on questions of fact.
+
+SECTION 115 — REVISION
+The High Court may call for the record of any case which has been decided by any Court subordinate to it.
+
+TERRITORIAL JURISDICTION (Section 16-20):
+- Suits for immovable property: Where the property is situated
+- Other suits: Where the cause of action arises, or where the defendant resides or carries on business
+
+PECUNIARY JURISDICTION:
+- District Court: Suits above a specified value (varies by state)
+- Civil Judge (Senior Division): Intermediate value
+- Civil Judge (Junior Division): Lower value
+
+---
+
+ARBITRATION AND CONCILIATION ACT, 1996 (As amended 2019)
+
+SECTION 7 — ARBITRATION AGREEMENT
+An arbitration agreement means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them. It shall be in writing.
+
+SECTION 8 — POWER TO REFER PARTIES TO ARBITRATION
+A judicial authority, before which an action is brought in a matter which is the subject of an arbitration agreement, shall refer the parties to arbitration.
+
+SECTION 9 — INTERIM MEASURES BY COURT
+A party may, before or during arbitral proceedings or at any time after the making of the arbitral award, apply to a court for interim measures of protection.
+
+SECTION 11 — APPOINTMENT OF ARBITRATORS
+(1) A person of any nationality may be an arbitrator.
+(2) The parties are free to agree on a procedure for appointing the arbitrator.
+(3) If they fail to agree: Each party appoints one arbitrator, and the two appointed arbitrators appoint the third (presiding arbitrator).
+(4) If this process fails: The Supreme Court (for international commercial arbitration) or the High Court (for domestic) shall appoint the arbitrator.
+
+SECTION 12 — GROUNDS FOR CHALLENGE
+An arbitrator may be challenged if circumstances give rise to justifiable doubts as to his independence or impartiality.
+
+SECTION 17 — INTERIM MEASURES BY ARBITRAL TRIBUNAL
+The arbitral tribunal may, at the request of a party, grant interim measures including:
+(a) an order to maintain or restore the status quo pending determination;
+(b) an order to take action to prevent harm or prejudice;
+(c) an order to provide security for costs.
+
+SECTION 28 — RULES APPLICABLE TO SUBSTANCE OF DISPUTE
+(1) For domestic arbitration: Indian substantive law shall apply.
+(2) For international commercial arbitration: Rules of law designated by parties.
+
+SECTION 29A — TIME LIMIT FOR ARBITRAL AWARD (NEW)
+(1) The award shall be made within 12 months from the date of completion of pleadings.
+(2) The parties may extend the period by 6 months.
+(3) Further extension only by the Court, on sufficient cause.
+(4) If the award is not made within the specified time, the mandate of the arbitrator shall terminate.
+
+SECTION 34 — APPLICATION FOR SETTING ASIDE ARBITRAL AWARD
+An arbitral award may only be set aside by the Court if:
+(a) a party was under some incapacity;
+(b) the arbitration agreement is not valid;
+(c) the party was not given proper notice;
+(d) the award deals with matters beyond the scope of the arbitration agreement;
+(e) the composition of the tribunal was not in accordance with the agreement;
+(f) the subject matter is not capable of settlement by arbitration;
+(g) the award is in conflict with the public policy of India (including patent illegality).
+
+APPLICATION MUST BE FILED WITHIN 3 MONTHS (extendable by 30 days for sufficient cause).
+
+SECTION 36 — ENFORCEMENT
+An arbitral award shall be enforced as if it were a decree of the court.
+
+SECTION 37 — APPEALABLE ORDERS
+An appeal shall lie from:
+(a) setting aside or refusing to set aside an arbitral award;
+(b) granting or refusing to grant interim measures.
+
+LOK ADALATS (Legal Services Authorities Act, 1987):
+Section 19 — Organisation of Lok Adalats (people's courts)
+Section 20 — Reference of cases to Lok Adalat
+Section 21 — Award of Lok Adalat deemed decree of civil court; final and binding; no appeal
+Advantages: No court fees, speedy justice, compromise-based settlement, legally binding
+Cases that can be referred: Motor accident claims, matrimonial disputes, labour disputes, compoundable criminal cases, cases pending in courts
+
+NATIONAL GREEN TRIBUNAL ACT, 2010:
+- Established for effective and expeditious disposal of cases relating to environmental protection
+- Cases related to: Forest Conservation Act, Biological Diversity Act, Environment (Protection) Act, Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act
+- Provides compensation for damage to persons, property, and environment
+- Appeal to Supreme Court within 90 days

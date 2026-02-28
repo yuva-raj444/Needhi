@@ -1,0 +1,110 @@
+ENVIRONMENT AND POLLUTION LAWS IN INDIA
+
+ENVIRONMENT (PROTECTION) ACT, 1986
+
+SECTION 2 — DEFINITIONS
+(a) "Environment" includes water, air and land and the inter-relationship which exists among and between water, air and land, and human beings, other living creatures, plants, micro-organisms and property.
+
+SECTION 3 — POWER OF CENTRAL GOVERNMENT TO TAKE MEASURES
+The Central Government shall have the power to take all such measures as it deems necessary for the purpose of protecting and improving the quality of the environment.
+
+SECTION 7 — NO PERSON SHALL CARRY ON INDUSTRY OR OPERATION WITHOUT PERMISSION
+No person carrying on any industry, operation or process shall discharge or emit any environmental pollutant in excess of prescribed standards.
+
+SECTION 15 — PENALTY FOR CONTRAVENTION
+Whoever contravenes any provision of this Act — imprisonment up to 5 years, or fine up to Rs 1 lakh, or both. If the failure continues — additional fine up to Rs 5,000 per day. If the failure continues beyond 1 year — imprisonment up to 7 years.
+
+WATER (PREVENTION AND CONTROL OF POLLUTION) ACT, 1974:
+- Prohibits discharge of pollutants into water bodies without consent of State Pollution Control Board
+- Penalty: Imprisonment 1.5 to 6 years and fine
+
+AIR (PREVENTION AND CONTROL OF POLLUTION) ACT, 1981:
+- Prohibits emission of air pollutants in excess of prescribed standards
+- Industrial units in pollution control areas require consent from SPCB
+- Penalty: Imprisonment up to 6 years, or fine up to Rs 5,000, or both
+
+NOISE POLLUTION (REGULATION AND CONTROL) RULES, 2000:
+- Ambient noise standards:
+  Industrial area: 75 dB(A) day, 70 dB(A) night
+  Commercial area: 65 dB(A) day, 55 dB(A) night
+  Residential area: 55 dB(A) day, 45 dB(A) night
+  Silence zone (near hospitals, schools): 50 dB(A) day, 40 dB(A) night
+- Use of loudspeakers/public address systems prohibited between 10 PM and 6 AM
+- Filing noise complaint: Approach local police or Pollution Control Board
+
+SOLID WASTE MANAGEMENT RULES, 2016:
+- Segregation of waste at source into biodegradable, non-biodegradable and domestic hazardous waste is mandatory
+- Bulk generators (restaurants, hotels, malls) shall segregate and process biodegradable waste on-site or hand over to authorized waste processors
+- No burning of waste in open
+- Littering in public places: Fine (varies by state)
+
+E-WASTE (MANAGEMENT) RULES, 2016:
+- Producers of electronic products must provide for collection and channelization of e-waste
+- Consumers must not dispose of e-waste in dustbins or landfills
+- Authorized dismantlers and recyclers only shall process e-waste
+
+ENVIRONMENTAL CLEARANCE:
+- Projects above prescribed thresholds require Environmental Clearance from MoEFCC (Central) or SEIAA (State)
+- Process: Screening → Scoping → Public Hearing → Appraisal → Decision
+- EIA Notification 2006 (as amended) prescribes categories of projects
+
+NATIONAL GREEN TRIBUNAL (NGT):
+- Established under NGT Act 2010
+- Handles all civil cases related to environmental protection
+- Can award compensation for damages to persons, property and environment
+- Orders are binding; appeal to Supreme Court
+- Limitation: 6 months from cause of action
+
+---
+
+INTELLECTUAL PROPERTY LAWS IN INDIA
+
+PATENTS ACT, 1970 (As amended 2005):
+SECTION 2(1)(j): "Invention" means a new product or process involving an inventive step and capable of industrial application.
+SECTION 3: What are not inventions — includes abstract theories, methods of agriculture/horticulture, any process for treatment of humans/animals, mere discovery of scientific principles, computer programs per se.
+Patent term: 20 years from date of filing.
+Patent can be revoked if not worked in India within 3 years of grant.
+
+COPYRIGHT ACT, 1957:
+SECTION 13: Copyright subsists in original literary, dramatic, musical and artistic works, cinematograph films, and sound recordings.
+SECTION 14: Rights — reproduction, public performance, making copies, making translations/adaptations, communication to public.
+SECTION 51: Infringement — when any person without licence does anything that the exclusive right of the copyright holder.
+SECTION 63: Penalty — imprisonment not less than 6 months, extendable to 3 years, and fine not less than Rs 50,000, extendable to Rs 2 lakh.
+Term: Life of author + 60 years.
+
+TRADE MARKS ACT, 1999:
+SECTION 2: "Trade mark" means a mark capable of being represented graphically and which is capable of distinguishing goods/services of one person from another.
+Registration: 10 years, renewable for further periods of 10 years each.
+SECTION 29: Infringement — using an identical or deceptively similar mark for identical or similar goods/services.
+SECTION 103: Penalty for falsifying trademarks — imprisonment not less than 6 months, extendable to 3 years, and fine not less than Rs 50,000, extendable to Rs 2 lakh.
+SECTION 105: Penalty for falsely applying trademark — same as Section 103.
+
+---
+
+BANKING AND FINANCIAL LAWS
+
+SARFAESI ACT, 2002 (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act):
+SECTION 13: If a borrower makes any default in repayment and the account is classified as NPA:
+(1) Bank must issue a 60-day notice to the borrower to discharge the liabilities.
+(2) After 60 days, the bank may: take possession of the secured assets, sell the assets, appoint manager to manage the secured assets.
+(3) This can be done WITHOUT intervention of court.
+
+SECTION 17: Any person aggrieved by any of the measures taken by the bank under Section 13(4) may make an application to the Debts Recovery Tribunal (DRT) within 45 days.
+
+INSOLVENCY AND BANKRUPTCY CODE, 2016 (IBC):
+- Unified framework for insolvency resolution of corporates, partnership firms and individuals
+- Corporate Insolvency Resolution Process (CIRP): Must be completed within 180 days (extendable by 90 days, total maximum 330 days)
+- NCLT (National Company Law Tribunal) is the adjudicating authority for corporate persons
+- DRT for individuals and partnership firms
+- Priority of claims: Insolvency resolution process costs → Secured creditors → Workers' dues (24 months) → Unsecured creditors → Government dues → Remaining debts
+
+RECOVERY OF DEBTS AND BANKRUPTCY ACT, 1993:
+- DRT handles recovery of debts due to banks and financial institutions
+- For debts of Rs 20 lakh and above
+- DRT must dispose of an application within 6 months
+
+CONSUMER PROTECTION IN BANKING:
+- Banking Ombudsman (appointed by RBI) handles complaints against banks
+- Complaint can be filed online at https://cms.rbi.org.in
+- Covers: Non-payment/delay in payment of cheques, non-adherence to fair practices code, levy of charges without notice, non-observance of RBI guidelines, etc.
+- If unsatisfied with banking ombudsman's decision: Appeal to Deputy Governor, RBI within 30 days
